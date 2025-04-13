@@ -4,29 +4,38 @@ FROM ubuntu:22.04
 # Install necessary dependencies
 RUN apt-get update && apt-get install -y \
     curl \
+    python3 \
+    python3-pip \
+    python3-venv \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Ollama
 RUN curl -fsSL https://ollama.com/install.sh | sh
 
-# Start Ollama service
-RUN service ollama start
-
-# Wait for Ollama to be ready
-RUN sleep 10
-
-# Download Ollama models beforehand (optional but recommended)
-RUN ollama pull nomic-embed-text
-RUN ollama pull hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
-
 # Set working directory
 WORKDIR /app
 
+# Create and activate virtual environment
+RUN python3 -m venv /app/venv
+ENV PATH="/app/venv/bin:$PATH"
+
+# Copy requirements first to leverage Docker cache
+COPY requirements.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
 # Copy application files
 COPY . .
+
+# Start Ollama and download models
+RUN ollama serve & \
+    sleep 10 && \
+    ollama pull nomic-embed-text && \
+    ollama pull hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
 
 # Expose port
 EXPOSE 5000
 
 # Command to run the application
-CMD ["python", "server.py"]
+CMD ["sh", "-c", "ollama serve & sleep 10 && python server.py"]
