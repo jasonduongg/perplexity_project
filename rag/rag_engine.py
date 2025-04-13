@@ -1,7 +1,10 @@
-import ollama
+from ollama._client import Client  # 🔥 direct access to the client
 
 EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
 VECTOR_DB = []
+
+client = Client(host='http://localhost:11434')  # ✅ Not base_url
+
 
 def load_dataset(file_path):
     with open(file_path, 'r') as file:
@@ -9,7 +12,7 @@ def load_dataset(file_path):
     return lines
 
 def embed_text(text):
-    return ollama.embed(model=EMBEDDING_MODEL, input=text)['embeddings'][0]
+    return client.embed(model=EMBEDDING_MODEL, input=text)['embeddings'][0]
 
 def add_chunk_to_database(chunk):
     embedding = embed_text(chunk)

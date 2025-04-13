@@ -1,1095 +1,826 @@
 {
-  "query": "taylor",
+  "query": "Travis Scott",
   "spotify": {
     "source": "spotify",
-    "query": "taylor",
+    "query": "Travis Scott",
     "type": "artist",
-    "id": "06HL4z0CvFAxyc27GXpf02",
-    "name": "Taylor Swift",
-    "genres": [],
-    "followers": 135576261,
-    "popularity": 98,
-    "spotify_url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "name": "Travis Scott",
+    "genres": [
+      "rap"
+    ],
+    "followers": 38060431,
+    "popularity": 94,
+    "spotify_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
     "images": [
       {
-        "url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
         "height": 640,
         "width": 640
       },
       {
-        "url": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676",
+        "url": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
         "height": 320,
         "width": 320
       },
       {
-        "url": "https://i.scdn.co/image/ab6761610000f178e672b5f553298dcdccb0e676",
+        "url": "https://i.scdn.co/image/ab6761610000f17819c2790744c792d05570bb71",
         "height": 160,
         "width": 160
       }
     ],
     "albums": [
       {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "release_date": "2024-04-19",
-        "total_tracks": 31,
-        "spotify_url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "release_date": "2024-04-18",
-        "total_tracks": 16,
-        "spotify_url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      {
-        "name": "1989 (Taylor's Version) [Deluxe]",
-        "release_date": "2023-10-27",
-        "total_tracks": 22,
-        "spotify_url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
-      },
-      {
-        "name": "1989 (Taylor's Version)",
-        "release_date": "2023-10-26",
-        "total_tracks": 21,
-        "spotify_url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      {
-        "name": "Speak Now (Taylor's Version)",
-        "release_date": "2023-07-07",
-        "total_tracks": 22,
-        "spotify_url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      {
-        "name": "Midnights (The Til Dawn Edition)",
-        "release_date": "2023-05-26",
-        "total_tracks": 23,
-        "spotify_url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      {
-        "name": "Midnights (3am Edition)",
-        "release_date": "2022-10-22",
-        "total_tracks": 20,
-        "spotify_url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      {
-        "name": "Midnights",
-        "release_date": "2022-10-21",
-        "total_tracks": 13,
-        "spotify_url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      {
-        "name": "Red (Taylor's Version)",
-        "release_date": "2021-11-12",
-        "total_tracks": 30,
-        "spotify_url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      {
-        "name": "Fearless (Taylor's Version)",
-        "release_date": "2021-04-09",
-        "total_tracks": 26,
-        "spotify_url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      {
-        "name": "evermore (deluxe version)",
-        "release_date": "2021-01-07",
-        "total_tracks": 17,
-        "spotify_url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
-      },
-      {
-        "name": "evermore",
-        "release_date": "2020-12-11",
-        "total_tracks": 15,
-        "spotify_url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      {
-        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-        "release_date": "2020-11-25",
-        "total_tracks": 34,
-        "spotify_url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
-      },
-      {
-        "name": "folklore (deluxe version)",
-        "release_date": "2020-08-18",
-        "total_tracks": 17,
-        "spotify_url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
-      },
-      {
-        "name": "folklore",
-        "release_date": "2020-07-24",
-        "total_tracks": 16,
-        "spotify_url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      {
-        "name": "Lover",
-        "release_date": "2019-08-23",
-        "total_tracks": 18,
-        "spotify_url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      {
-        "name": "Taylor Swift Karaoke: reputation",
-        "release_date": "2018-03-09",
-        "total_tracks": 15,
-        "spotify_url": "https://open.spotify.com/album/1MHuZZrGT36cXLxAQ5cLP3"
-      },
-      {
-        "name": "reputation",
-        "release_date": "2017-11-10",
-        "total_tracks": 15,
-        "spotify_url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "release_date": "2017-11-09",
-        "total_tracks": 46,
-        "spotify_url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
-      },
-      {
-        "name": "1989 (Deluxe Edition)",
-        "release_date": "2014-10-27",
+        "name": "UTOPIA",
+        "release_date": "2023-07-28",
         "total_tracks": 19,
-        "spotify_url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
+        "spotify_url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       {
-        "name": "1989",
-        "release_date": "2014-10-27",
+        "name": "JACKBOYS",
+        "release_date": "2019-12-27",
+        "total_tracks": 7,
+        "spotify_url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      {
+        "name": "ASTROWORLD",
+        "release_date": "2018-08-03",
+        "total_tracks": 17,
+        "spotify_url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      {
+        "name": "Huncho Jack, Jack Huncho",
+        "release_date": "2017-12-21",
         "total_tracks": 13,
-        "spotify_url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+        "spotify_url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
       {
-        "name": "Red (Deluxe Edition)",
-        "release_date": "2012-10-22",
-        "total_tracks": 22,
-        "spotify_url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
-      },
-      {
-        "name": "Red",
-        "release_date": "2012-10-22",
-        "total_tracks": 16,
-        "spotify_url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
-      },
-      {
-        "name": "Speak Now World Tour Live",
-        "release_date": "2010-10-25",
-        "total_tracks": 16,
-        "spotify_url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
-      },
-      {
-        "name": "Speak Now (Deluxe Edition)",
-        "release_date": "2010-10-25",
-        "total_tracks": 20,
-        "spotify_url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
-      },
-      {
-        "name": "Speak Now",
-        "release_date": "2010-10-25",
+        "name": "Birds In The Trap Sing McKnight",
+        "release_date": "2016-09-16",
         "total_tracks": 14,
-        "spotify_url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+        "spotify_url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
       {
-        "name": "Fearless Platinum Edition",
-        "release_date": "2008-11-11",
-        "total_tracks": 19,
-        "spotify_url": "https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn"
+        "name": "Rodeo",
+        "release_date": "2015-09-04",
+        "total_tracks": 16,
+        "spotify_url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
       {
-        "name": "Fearless",
-        "release_date": "2008-11-11",
-        "total_tracks": 13,
-        "spotify_url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "DAYS BEFORE RODEO",
+        "release_date": "2014-08-18",
+        "total_tracks": 12,
+        "spotify_url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
       {
-        "name": "Live From Clear Channel Stripped 2008",
-        "release_date": "2008-06-28",
-        "total_tracks": 8,
-        "spotify_url": "https://open.spotify.com/album/1ycoesYxIFymXWebfmz828"
-      },
-      {
-        "name": "Taylor Swift",
-        "release_date": "2006-10-24",
-        "total_tracks": 15,
-        "spotify_url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      {
-        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
-        "release_date": "2024-09-13",
-        "total_tracks": 3,
-        "spotify_url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
-      },
-      {
-        "name": "I Can Do It With a Broken Heart",
-        "release_date": "2024-07-16",
-        "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
-      },
-      {
-        "name": "Fortnight (Acoustic Version)",
-        "release_date": "2024-07-09",
-        "total_tracks": 3,
-        "spotify_url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
-      },
-      {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "release_date": "2024-05-22",
-        "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      {
-        "name": "You're Losing Me (From The Vault)",
-        "release_date": "2023-11-29",
+        "name": "4X4",
+        "release_date": "2025-01-24",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+        "spotify_url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
       {
-        "name": "The Cruelest Summer",
-        "release_date": "2023-10-19",
+        "name": "SOUTH OF FRANCE (REMIX)",
+        "release_date": "2024-10-31",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
+      },
+      {
+        "name": "Active",
+        "release_date": "2024-08-06",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      {
+        "name": "Parking Lot",
+        "release_date": "2024-06-21",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
+      },
+      {
+        "name": "FE!N (CHASE B REMIX)",
+        "release_date": "2024-04-19",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/3PgQ3tZpZH8gZm9PEmSlJA"
+      },
+      {
+        "name": "n\u00e9e-nah",
+        "release_date": "2024-01-10",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT"
+      },
+      {
+        "name": "Water (Remix)",
+        "release_date": "2023-11-17",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
+      },
+      {
+        "name": "MELTDOWN (feat. Drake)",
+        "release_date": "2023-07-27",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/61XhXTtorAgw4lRnh8GN0c"
+      },
+      {
+        "name": "DELRESTO (ECHOES)",
+        "release_date": "2023-07-26",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2"
+      },
+      {
+        "name": "MELTDOWN (feat. Drake) [Instrumental]",
+        "release_date": "2023-07-25",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/2lzV5TIBiLED8eCjwsGBIv"
+      },
+      {
+        "name": "K-POP",
+        "release_date": "2023-07-21",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      {
+        "name": "K-POP (Chopped & Screwed)",
+        "release_date": "2023-07-18",
         "total_tracks": 4,
-        "spotify_url": "https://open.spotify.com/album/12A1Byk8EpqzaHSw12nKyW"
+        "spotify_url": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl"
       },
       {
-        "name": "Lavender Haze (Acoustic Version)",
-        "release_date": "2023-03-31",
+        "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign) [Extended Version]",
+        "release_date": "2023-07-05",
+        "total_tracks": 2,
+        "spotify_url": "https://open.spotify.com/album/0gjNdpTxPk8mCNEmC8bLj6"
+      },
+      {
+        "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
+        "release_date": "2023-05-11",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+        "spotify_url": "https://open.spotify.com/album/5zntmQTdk7d7kNAZhxsWYZ"
       },
       {
-        "name": "Lavender Haze (Remixes)",
-        "release_date": "2023-03-03",
-        "total_tracks": 5,
-        "spotify_url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      {
-        "name": "Lavender Haze (Felix Jaehn Remix)",
-        "release_date": "2023-02-10",
+        "name": "Embarrassed (feat. Travis Scott)",
+        "release_date": "2023-02-23",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+        "spotify_url": "https://open.spotify.com/album/0Z3NTCoaxoeU9C7F3sgbAC"
       },
       {
-        "name": "Anti-Hero (Acoustic Version)",
-        "release_date": "2022-11-25",
+        "name": "KRZY TRAIN",
+        "release_date": "2023-01-19",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+        "spotify_url": "https://open.spotify.com/album/2hO1pS6rqDGhBR36ijl3q1"
       },
       {
-        "name": "Anti-Hero (ILLENIUM Remix)",
+        "name": "Down In Atlanta",
         "release_date": "2022-11-18",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
+        "spotify_url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
       {
-        "name": "Anti-Hero (Remixes)",
-        "release_date": "2022-11-11",
-        "total_tracks": 5,
-        "spotify_url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
-      },
-      {
-        "name": "Anti-Hero (feat. Bleachers)",
-        "release_date": "2022-11-08",
-        "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB"
-      },
-      {
-        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
-        "release_date": "2022-06-24",
-        "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
-      },
-      {
-        "name": "All Too Well (10 Minute Version) (The Short Film)",
-        "release_date": "2022-06-11",
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "release_date": "2022-04-22",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2O1NYIBQCUobrL97A2Unk8"
+        "spotify_url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
       },
       {
-        "name": "This Love (Taylor\u2019s Version)",
-        "release_date": "2022-05-06",
+        "name": "ESCAPE PLAN / MAFIA",
+        "release_date": "2021-11-05",
         "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
+        "spotify_url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
       {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "release_date": "2022-02-11",
+        "name": "Flocky Flocky (feat. Travis Scott)",
+        "release_date": "2021-10-07",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "spotify_url": "https://open.spotify.com/album/69EoaGm2iEB3MhWxcUmCfP"
       },
       {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "release_date": "2022-01-21",
+        "name": "durag activity (with Travis Scott)",
+        "release_date": "2021-04-30",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/2JFAT4IDF89ZMmuxoOKbQ1"
+      },
+      {
+        "name": "Goosebumps (Remix)",
+        "release_date": "2021-01-15",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      {
+        "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
+        "release_date": "2020-10-07",
         "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
+        "spotify_url": "https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B"
       },
       {
-        "name": "Christmas Tree Farm (Old Timey Version)",
-        "release_date": "2021-11-22",
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "release_date": "2020-09-25",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b"
+        "spotify_url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
       {
-        "name": "Christmas Tree Farm",
-        "release_date": "2021-11-22",
+        "name": "The Plan (From the Motion Picture \"TENET\")",
+        "release_date": "2020-08-22",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/3S4AQxtnqGJOtw1k6ZT111"
+      },
+      {
+        "name": "Wash Us In The Blood",
+        "release_date": "2020-06-30",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7jQPy8GhgSuT5A54pb5sHx"
+      },
+      {
+        "name": "TKN (feat. Travis Scott)",
+        "release_date": "2020-05-28",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
+      },
+      {
+        "name": "THE SCOTTS",
+        "release_date": "2020-04-24",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
+      },
+      {
+        "name": "Antisocial (with Travis Scott) [MK Remix]",
+        "release_date": "2019-12-10",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/0Whkv3Bi9hP9ev2cFPlZR3"
+      },
+      {
+        "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
+        "release_date": "2019-11-01",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7hXWMVDn9SVV7zNYiQGvWO"
+      },
+      {
+        "name": "HIGHEST IN THE ROOM",
+        "release_date": "2019-10-04",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      {
+        "name": "Antisocial (with Travis Scott)",
+        "release_date": "2019-07-11",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/0RDH4M8AhISBHwCVr2ByYX"
+      },
+      {
+        "name": "The London (feat. J. Cole & Travis Scott)",
+        "release_date": "2019-05-23",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
+      },
+      {
+        "name": "SICKO MODE (Skrillex Remix)",
+        "release_date": "2018-11-28",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
+      },
+      {
+        "name": "Watch (feat. Lil Uzi Vert & Kanye West)",
+        "release_date": "2018-05-04",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/7hVFsGvQ1apmp4EAldMwID"
+      },
+      {
+        "name": "Dark Knight Dummo (feat. Travis Scott)",
+        "release_date": "2017-12-05",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/1WSnqA1LRyB0vXtbMUACUl"
+      },
+      {
+        "name": "Know No Better (Remixes)",
+        "release_date": "2017-08-18",
+        "total_tracks": 10,
+        "spotify_url": "https://open.spotify.com/album/6jKkQX7YSeHNrw2xTGEE3p"
+      },
+      {
+        "name": "Know No Better",
+        "release_date": "2017-06-01",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/5JYbnnLocVOYSXzydsCv9G"
+      },
+      {
+        "name": "Fish N Grits (feat. Travis Scott)",
+        "release_date": "2017-04-07",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/1x2nZMdADxqrWWcDveYNYN"
+      },
+      {
+        "name": "Go Off",
+        "release_date": "2017-03-02",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/3G9US0Byt1UldeKifKPIwa"
+      },
+      {
+        "name": "pick up the phone",
+        "release_date": "2016-06-03",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
+      },
+      {
+        "name": "Whole Lotta Lovin' (With You Remix)",
+        "release_date": "2016-04-15",
+        "total_tracks": 1,
+        "spotify_url": "https://open.spotify.com/album/4rVGepRzIj7IDiveCYQIKG"
+      },
+      {
+        "name": "Whole Lotta Lovin' (Grandtheft Remix)",
+        "release_date": "2016-03-25",
         "total_tracks": 3,
-        "spotify_url": "https://open.spotify.com/album/2jEFKhESvCLGpFP8KwpV2T"
+        "spotify_url": "https://open.spotify.com/album/79mgeD5Qzc57zP2CLpfPpF"
       },
       {
-        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-        "release_date": "2021-11-18",
+        "name": "Whole Lotta Lovin' (LeMarquis Remix)",
+        "release_date": "2016-03-14",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
+        "spotify_url": "https://open.spotify.com/album/6XIW3PupQ0cPSVc4H102bG"
       },
       {
-        "name": "The More Red (Taylor\u2019s Version) Chapter",
-        "release_date": "2021-11-12",
-        "total_tracks": 6,
-        "spotify_url": "https://open.spotify.com/album/1qEs8XpGGduMUF7jfAs5l3"
-      },
-      {
-        "name": "Safe & Sound (Taylor's Version)",
-        "release_date": "2021-11-12",
+        "name": "Whole Lotta Lovin' (Le Boeuf Remix)",
+        "release_date": "2016-03-14",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR"
+        "spotify_url": "https://open.spotify.com/album/2Shx19QFPUrwfHG3lnOrRw"
       },
       {
-        "name": "Eyes Open (Taylor's Version)",
-        "release_date": "2021-11-12",
+        "name": "Whole Lotta Lovin' (Djemba Djemba Remix)",
+        "release_date": "2016-03-14",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3"
+        "spotify_url": "https://open.spotify.com/album/2DEPaQ4ZpqJOImZn7V0S6w"
       },
       {
-        "name": "Wildest Dreams (Taylor's Version)",
-        "release_date": "2021-09-17",
+        "name": "Whole Lotta Lovin' (Bad Royale Remix)",
+        "release_date": "2016-03-14",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
+        "spotify_url": "https://open.spotify.com/album/0LLmEnGaDnNtS7xXQUFsjP"
       },
       {
-        "name": "Renegade (Pop Version)",
-        "release_date": "2021-08-17",
+        "name": "A-Team",
+        "release_date": "2016-02-06",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt"
+        "spotify_url": "https://open.spotify.com/album/4Q9gIbDuQiVOexTyDxx9V0"
       },
       {
-        "name": "the lakes (original version)",
-        "release_date": "2021-07-24",
+        "name": "Whole Lotta Lovin'",
+        "release_date": "2016-01-08",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq"
+        "spotify_url": "https://open.spotify.com/album/4k8OFHeiAlbAZZfNQwGc1n"
       },
       {
-        "name": "willow (90's trend remix)",
-        "release_date": "2021-06-14",
+        "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+        "release_date": "2014-08-18",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5C41iVpK8HXCe3qlLL3I38"
+        "spotify_url": "https://open.spotify.com/album/6oEICQkozJ4HRWsetBGUl7"
       },
       {
-        "name": "The More Fearless (Taylor\u2019s Version) Chapter",
-        "release_date": "2021-04-09",
-        "total_tracks": 5,
-        "spotify_url": "https://open.spotify.com/album/6MMVrrxnNgGKg04ze1Pemw"
-      },
-      {
-        "name": "If This Was A Movie (Taylor\u2019s Version)",
-        "release_date": "2021-04-09",
+        "name": "Don't Play (feat. The 1975 & Big Sean)",
+        "release_date": "2014-08-18",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F"
+        "spotify_url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
       },
       {
-        "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
-        "release_date": "2021-04-07",
+        "name": "Upper Echelon (feat. T.I. & 2 Chainz)",
+        "release_date": "2013-05-21",
         "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
-      },
-      {
-        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-        "release_date": "2021-03-26",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
-      },
-      {
-        "name": "Love Story (Taylor's Version) [Elvira Remix]",
-        "release_date": "2021-03-23",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
-      },
-      {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "release_date": "2021-02-12",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      {
-        "name": "Christmas Tree Farm (Recorded Live at the 2019 iHeartRadio Jingle Ball)",
-        "release_date": "2020-12-19",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5lIglDJlPaEoqVl2hhi3O0"
-      },
-      {
-        "name": "willow (the witch collection)",
-        "release_date": "2020-12-16",
-        "total_tracks": 4,
-        "spotify_url": "https://open.spotify.com/album/6WzAiEDGTU7KmEyGwLpBXB"
-      },
-      {
-        "name": "willow (moonlit witch version)",
-        "release_date": "2020-12-16",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0"
-      },
-      {
-        "name": "willow (lonely witch version)",
-        "release_date": "2020-12-15",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc"
-      },
-      {
-        "name": "willow [dancing witch version (Elvira remix)]",
-        "release_date": "2020-12-13",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P"
-      },
-      {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "release_date": "2020-09-18",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      {
-        "name": "cardigan (cabin in candlelight version)",
-        "release_date": "2020-07-30",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
-      },
-      {
-        "name": "Cornelia Street (Live From Paris)",
-        "release_date": "2020-05-18",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7"
-      },
-      {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      {
-        "name": "The Archer (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2A1msASmUbUdaZyeOxpbAD"
-      },
-      {
-        "name": "ME! (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      {
-        "name": "Lover (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/7hvsmGyWH2kJS5X4E4t039"
-      },
-      {
-        "name": "Death By A Thousand Cuts (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V"
-      },
-      {
-        "name": "Daylight (Live From Paris)",
-        "release_date": "2020-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2apcAEM6coXOMnHitrpRDk"
-      },
-      {
-        "name": "The Man (Live From Paris)",
-        "release_date": "2020-02-18",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      {
-        "name": "You're Not Sorry (CSI Remix)",
-        "release_date": "2020-02-07",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5sZIjREu3s225wwqJkgsYV"
-      },
-      {
-        "name": "Love Story (Pop Mix)",
-        "release_date": "2020-02-07",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/1iab5rfjNpGhoPlFzPyp4k"
-      },
-      {
-        "name": "Love Story (Digital Dog Remix)",
-        "release_date": "2020-02-07",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2Z2KdJE0nGGu0qdWA45mza"
-      },
-      {
-        "name": "Only The Young (Featured in Miss Americana)",
-        "release_date": "2020-01-31",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
-      },
-      {
-        "name": "Lover (First Dance Remix)",
-        "release_date": "2019-11-26",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At"
-      },
-      {
-        "name": "Lover (Remix) [feat. Shawn Mendes]",
-        "release_date": "2019-11-13",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC"
-      },
-      {
-        "name": "All Of The Girls You Loved Before",
-        "release_date": "2019-08-23",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
-      },
-      {
-        "name": "You Need To Calm Down (Clean Bandit Remix)",
-        "release_date": "2019-08-20",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj"
-      },
-      {
-        "name": "Delicate (Seeb Remix)",
-        "release_date": "2018-06-08",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
-      },
-      {
-        "name": "Delicate (Sawyr And Ryan Tedder Mix)",
-        "release_date": "2018-05-25",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/7HEXQkjBNiZilJcTWXwLOA"
-      },
-      {
-        "name": "Spotify Singles",
-        "release_date": "2018-04-13",
-        "total_tracks": 2,
-        "spotify_url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      {
-        "name": "...Ready For It? (BloodPop\u00ae Remix)",
-        "release_date": "2017-12-01",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
-      },
-      {
-        "name": "Bad Blood",
-        "release_date": "2015-05-17",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE"
-      },
-      {
-        "name": "Wildest Dreams (R3hab Remix)",
-        "release_date": "2015-01-01",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4vkDxA22dFzObjOY1nnXPk"
-      },
-      {
-        "name": "Sweeter Than Fiction",
-        "release_date": "2013-10-21",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1"
-      },
-      {
-        "name": "Everything Has Changed (Remix)",
-        "release_date": "2013-01-01",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/7CoqvPGCLHm7LbgH2Pz9aY"
-      },
-      {
-        "name": "Ronan",
-        "release_date": "2012-09-08",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/4T5606j6qpkQrWlwbKPLOp"
-      },
-      {
-        "name": "Today Was A Fairytale",
-        "release_date": "2010-01-01",
-        "total_tracks": 1,
-        "spotify_url": "https://open.spotify.com/album/2JK0T590oG0pJckY9HRniL"
-      },
-      {
-        "name": "The Taylor Swift Holiday Collection",
-        "release_date": "2008-12-02",
-        "total_tracks": 6,
-        "spotify_url": "https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF"
+        "spotify_url": "https://open.spotify.com/album/17cSW3X8DeEW7RRzPvcpLf"
       }
     ],
     "top_track_names": [
-      "Cruel Summer",
-      "Lover",
-      "Fortnight (feat. Post Malone)",
-      "cardigan",
-      "august",
-      "Don\u2019t Blame Me",
-      "Anti-Hero",
-      "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "I Can Do It With a Broken Heart",
-      "You Belong With Me (Taylor\u2019s Version)",
-      "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "my tears ricochet",
-      "Delicate",
-      "Look What You Made Me Do",
-      "Enchanted (Taylor's Version)",
-      "exile (feat. Bon Iver)",
-      "The Man",
-      "Daylight",
-      "...Ready For It?",
-      "Style (Taylor's Version)",
-      "You Need To Calm Down",
-      "Getaway Car",
-      "Love Story (Taylor\u2019s Version)",
-      "So High School",
-      "The Prophecy",
-      "Blank Space (Taylor's Version)",
-      "You're On Your Own, Kid",
-      "Karma",
-      "Love Story (Taylor\u2019s Version)",
-      "Paper Rings"
+      "FE!N (feat. Playboi Carti)",
+      "goosebumps",
+      "HIGHEST IN THE ROOM",
+      "SICKO MODE",
+      "4X4",
+      "MY EYES",
+      "I KNOW ?",
+      "BUTTERFLY EFFECT",
+      "90210 (feat. Kacy Hill)",
+      "CAN'T SAY",
+      "TELEKINESIS (feat. SZA & Future)",
+      "SKELETONS",
+      "sdp interlude",
+      "Nightcrawler (feat. Swae Lee & Chief Keef)",
+      "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+      "OUT WEST (feat. Young Thug)",
+      "ASTROTHUNDER",
+      "MELTDOWN (feat. Drake)",
+      "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+      "5% TINT",
+      "STARGAZING",
+      "YOSEMITE",
+      "Goosebumps - Remix",
+      "Antidote",
+      "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+      "Drugs You Should Try It",
+      "THANK GOD",
+      "NO BYSTANDERS",
+      "Apple Pie"
     ],
     "tracks": [
       {
-        "name": "Cruel Summer",
-        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
-        "duration_ms": 178426,
-        "explicit": false,
-        "track_number": 2,
-        "popularity": 90,
+        "name": "FE!N (feat. Playboi Carti)",
+        "id": "42VsgItocQwOQC3XWZ8JNA",
+        "duration_ms": 191700,
+        "explicit": true,
+        "track_number": 8,
+        "popularity": 88,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr",
-        "album_name": "Lover"
+        "spotify_url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA",
+        "album_name": "UTOPIA"
       },
       {
-        "name": "Lover",
-        "id": "1dGr1c8CrMLDpV6mPbImSI",
-        "duration_ms": 221306,
-        "explicit": false,
-        "track_number": 3,
+        "name": "goosebumps",
+        "id": "6gBFPUFcJLzWGx4lenP6h2",
+        "duration_ms": 243836,
+        "explicit": true,
+        "track_number": 9,
+        "popularity": 87,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
+        "album_name": "Birds In The Trap Sing McKnight"
+      },
+      {
+        "name": "HIGHEST IN THE ROOM",
+        "id": "3eekarcy7kvN4yt5ZFzltW",
+        "duration_ms": 175720,
+        "explicit": true,
+        "track_number": 1,
         "popularity": 86,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI",
-        "album_name": "Lover"
+        "spotify_url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW",
+        "album_name": "HIGHEST IN THE ROOM"
       },
       {
-        "name": "Fortnight (feat. Post Malone)",
-        "id": "2OzhQlSqBEmt7hmkYxfT6m",
-        "duration_ms": 228965,
-        "explicit": false,
-        "track_number": 1,
-        "popularity": 85,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m",
-        "album_name": "THE TORTURED POETS DEPARTMENT"
-      },
-      {
-        "name": "cardigan",
-        "id": "4R2kfaDFhslZEMJqAFNpdd",
-        "duration_ms": 239560,
-        "explicit": false,
-        "track_number": 2,
-        "popularity": 85,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
-        "album_name": "folklore"
-      },
-      {
-        "name": "august",
-        "id": "3hUxzQpSfdDqwM3ZTFQY0K",
-        "duration_ms": 261922,
-        "explicit": false,
-        "track_number": 8,
-        "popularity": 85,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
-        "album_name": "folklore"
-      },
-      {
-        "name": "Don\u2019t Blame Me",
-        "id": "1R0a2iXumgCiFb7HEZ7gUE",
-        "duration_ms": 236413,
-        "explicit": false,
-        "track_number": 4,
-        "popularity": 85,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE",
-        "album_name": "reputation"
-      },
-      {
-        "name": "Anti-Hero",
-        "id": "0V3wPSX9ygBnCm8psDIegu",
-        "duration_ms": 200690,
-        "explicit": false,
+        "name": "SICKO MODE",
+        "id": "2xLMifQCjDGFmkHkpNLD9h",
+        "duration_ms": 312820,
+        "explicit": true,
         "track_number": 3,
         "popularity": 84,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu",
-        "album_name": "Midnights"
+        "spotify_url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h",
+        "album_name": "ASTROWORLD"
       },
       {
-        "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-        "id": "55n9yjI6qqXh5F2mYvUc2y",
-        "duration_ms": 247160,
-        "explicit": false,
-        "track_number": 10,
+        "name": "4X4",
+        "id": "6s8WSX1MxNThrot8ThI6fG",
+        "duration_ms": 190581,
+        "explicit": true,
+        "track_number": 1,
         "popularity": 84,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y",
-        "album_name": "reputation Stadium Tour Surprise Song Playlist"
+        "spotify_url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG",
+        "album_name": "4X4"
       },
       {
-        "name": "I Can Do It With a Broken Heart",
-        "id": "4q5YezDOIPcoLr8R81x9qy",
-        "duration_ms": 218004,
+        "name": "MY EYES",
+        "id": "4kjI1gwQZRKNDkw1nI475M",
+        "duration_ms": 251249,
         "explicit": true,
-        "track_number": 13,
+        "track_number": 4,
         "popularity": 83,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy",
-        "album_name": "THE TORTURED POETS DEPARTMENT"
+        "spotify_url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M",
+        "album_name": "UTOPIA"
       },
       {
-        "name": "You Belong With Me (Taylor\u2019s Version)",
-        "id": "1qrpoAMXodY6895hGKoUpA",
-        "duration_ms": 231124,
+        "name": "I KNOW ?",
+        "id": "6wsqVwoiVH2kde4k4KKAFU",
+        "duration_ms": 211582,
+        "explicit": true,
+        "track_number": 10,
+        "popularity": 83,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU",
+        "album_name": "UTOPIA"
+      },
+      {
+        "name": "BUTTERFLY EFFECT",
+        "id": "2cYqizR4lgvp4Qu6IQ3qGN",
+        "duration_ms": 190557,
         "explicit": false,
-        "track_number": 6,
+        "track_number": 15,
+        "popularity": 83,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN",
+        "album_name": "ASTROWORLD"
+      },
+      {
+        "name": "90210 (feat. Kacy Hill)",
+        "id": "51EC3I1nQXpec4gDk0mQyP",
+        "duration_ms": 339066,
+        "explicit": true,
+        "track_number": 5,
         "popularity": 82,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA",
-        "album_name": "Fearless (Taylor's Version)"
+        "spotify_url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
+        "album_name": "Rodeo"
       },
       {
-        "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-        "id": "5enxwA8aAbwZbf5qCHORXi",
-        "duration_ms": 613026,
+        "name": "CAN'T SAY",
+        "id": "27a1mYSG5tYg7dmEjWBcmL",
+        "duration_ms": 198408,
         "explicit": true,
-        "track_number": 30,
+        "track_number": 13,
         "popularity": 81,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi",
-        "album_name": "Red (Taylor's Version)"
+        "spotify_url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL",
+        "album_name": "ASTROWORLD"
       },
       {
-        "name": "my tears ricochet",
-        "id": "1MgV7FIyNxIG7WzMRJV5HC",
-        "duration_ms": 255893,
-        "explicit": false,
-        "track_number": 5,
-        "popularity": 81,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC",
-        "album_name": "folklore"
-      },
-      {
-        "name": "Delicate",
-        "id": "6NFyWDv5CjfwuzoCkw47Xf",
-        "duration_ms": 232253,
-        "explicit": false,
-        "track_number": 5,
-        "popularity": 81,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf",
-        "album_name": "reputation"
-      },
-      {
-        "name": "Look What You Made Me Do",
-        "id": "1P17dC1amhFzptugyAO7Il",
-        "duration_ms": 211853,
-        "explicit": false,
-        "track_number": 6,
-        "popularity": 81,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il",
-        "album_name": "reputation"
-      },
-      {
-        "name": "Enchanted (Taylor's Version)",
-        "id": "3sW3oSbzsfecv9XoUdGs7h",
-        "duration_ms": 353253,
-        "explicit": false,
-        "track_number": 9,
-        "popularity": 80,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h",
-        "album_name": "Speak Now (Taylor's Version)"
-      },
-      {
-        "name": "exile (feat. Bon Iver)",
-        "id": "4pvb0WLRcMtbPGmtejJJ6y",
-        "duration_ms": 285634,
-        "explicit": false,
-        "track_number": 4,
-        "popularity": 80,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
-        "album_name": "folklore"
-      },
-      {
-        "name": "The Man",
-        "id": "3RauEVgRgj1IuWdJ9fDs70",
-        "duration_ms": 190360,
-        "explicit": false,
-        "track_number": 4,
-        "popularity": 80,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70",
-        "album_name": "Lover"
-      },
-      {
-        "name": "Daylight",
-        "id": "1fzAuUVbzlhZ1lJAx9PtY6",
-        "duration_ms": 293453,
-        "explicit": false,
+        "name": "TELEKINESIS (feat. SZA & Future)",
+        "id": "1i9lZvlaDdWDPyXEE95aiq",
+        "duration_ms": 353754,
+        "explicit": true,
         "track_number": 18,
         "popularity": 80,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6",
-        "album_name": "Lover"
+        "spotify_url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq",
+        "album_name": "UTOPIA"
       },
       {
-        "name": "...Ready For It?",
-        "id": "2yLa0QULdQr0qAIvVwN6B5",
-        "duration_ms": 208186,
-        "explicit": false,
-        "track_number": 1,
+        "name": "SKELETONS",
+        "id": "6NMtzpDQBTOfJwMzgMX0zl",
+        "duration_ms": 145588,
+        "explicit": true,
+        "track_number": 7,
         "popularity": 80,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5",
-        "album_name": "reputation"
+        "spotify_url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl",
+        "album_name": "ASTROWORLD"
       },
       {
-        "name": "Style (Taylor's Version)",
-        "id": "1hjRhYpWyqDpPahmSlUTlc",
-        "duration_ms": 231000,
-        "explicit": false,
-        "track_number": 3,
-        "popularity": 79,
+        "name": "sdp interlude",
+        "id": "4gh0ZnHzaTMT1sDga7Ek0N",
+        "duration_ms": 191622,
+        "explicit": true,
+        "track_number": 6,
+        "popularity": 80,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc",
-        "album_name": "1989 (Taylor's Version)"
+        "spotify_url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N",
+        "album_name": "Birds In The Trap Sing McKnight"
       },
       {
-        "name": "You Need To Calm Down",
-        "id": "6RRNNciQGZEXnqk8SQ9yv5",
-        "duration_ms": 171360,
-        "explicit": false,
-        "track_number": 14,
-        "popularity": 79,
+        "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+        "id": "3xby7fOyqmeON8jsnom0AT",
+        "duration_ms": 321560,
+        "explicit": true,
+        "track_number": 7,
+        "popularity": 80,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5",
-        "album_name": "Lover"
+        "spotify_url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT",
+        "album_name": "Rodeo"
       },
       {
-        "name": "Getaway Car",
-        "id": "0VE4kBnHJUgtMf0dy6DRmW",
-        "duration_ms": 233626,
-        "explicit": false,
-        "track_number": 9,
-        "popularity": 79,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW",
-        "album_name": "reputation"
-      },
-      {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "id": "3CeCwYWvdfXbZLXFhBrbnf",
-        "duration_ms": 235766,
-        "explicit": false,
-        "track_number": 1,
-        "popularity": 79,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf",
-        "album_name": "Love Story (Taylor\u2019s Version)"
-      },
-      {
-        "name": "So High School",
-        "id": "7Mts0OfPorF4iwOomvfqn1",
-        "duration_ms": 228800,
-        "explicit": false,
-        "track_number": 22,
+        "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+        "id": "76gcXhY3Zv6wW0BTe9nHJo",
+        "duration_ms": 314836,
+        "explicit": true,
+        "track_number": 19,
         "popularity": 78,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1",
-        "album_name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY"
+        "spotify_url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo",
+        "album_name": "UTOPIA"
       },
       {
-        "name": "The Prophecy",
-        "id": "18WFFUIsewmA8g31KAeo3e",
-        "duration_ms": 249807,
-        "explicit": false,
-        "track_number": 26,
-        "popularity": 78,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e",
-        "album_name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY"
-      },
-      {
-        "name": "Blank Space (Taylor's Version)",
-        "id": "45wMBGri1PORPjM9PwFfrS",
-        "duration_ms": 231833,
-        "explicit": false,
-        "track_number": 2,
-        "popularity": 78,
-        "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS",
-        "album_name": "1989 (Taylor's Version)"
-      },
-      {
-        "name": "You're On Your Own, Kid",
-        "id": "4D7BCuvgdJlYvlX5WlN54t",
-        "duration_ms": 194206,
-        "explicit": false,
+        "name": "OUT WEST (feat. Young Thug)",
+        "id": "6gi6y1xwmVszDWkUqab1qw",
+        "duration_ms": 157712,
+        "explicit": true,
         "track_number": 5,
         "popularity": 78,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t",
-        "album_name": "Midnights"
+        "spotify_url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw",
+        "album_name": "JACKBOYS"
       },
       {
-        "name": "Karma",
-        "id": "7KokYm8cMIXCsGVmUvKtqf",
-        "duration_ms": 204852,
+        "name": "ASTROTHUNDER",
+        "id": "4MXhiYIRDMGAuvZc5IFTwC",
+        "duration_ms": 142969,
         "explicit": true,
         "track_number": 11,
         "popularity": 78,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf",
-        "album_name": "Midnights"
+        "spotify_url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC",
+        "album_name": "ASTROWORLD"
       },
       {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "id": "6YvqWjhGD8mB5QXcbcUKtx",
-        "duration_ms": 235766,
-        "explicit": false,
-        "track_number": 3,
-        "popularity": 78,
+        "name": "MELTDOWN (feat. Drake)",
+        "id": "67nepsnrcZkowTxMWigSbb",
+        "duration_ms": 246133,
+        "explicit": true,
+        "track_number": 7,
+        "popularity": 77,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx",
-        "album_name": "Fearless (Taylor's Version)"
+        "spotify_url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb",
+        "album_name": "UTOPIA"
       },
       {
-        "name": "Paper Rings",
-        "id": "4y5bvROuBDPr5fuwXbIBZR",
-        "duration_ms": 222400,
-        "explicit": false,
-        "track_number": 8,
-        "popularity": 78,
+        "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+        "id": "0lodMO0qK83vfPiiD7FMEt",
+        "duration_ms": 223173,
+        "explicit": true,
+        "track_number": 11,
+        "popularity": 77,
         "preview_url": null,
-        "spotify_url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR",
-        "album_name": "Lover"
+        "spotify_url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt",
+        "album_name": "UTOPIA"
+      },
+      {
+        "name": "5% TINT",
+        "id": "11kDth1aKUEUMq9r1pqyds",
+        "duration_ms": 196138,
+        "explicit": true,
+        "track_number": 9,
+        "popularity": 77,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds",
+        "album_name": "ASTROWORLD"
+      },
+      {
+        "name": "STARGAZING",
+        "id": "7wBJfHzpfI3032CSD7CE2m",
+        "duration_ms": 270714,
+        "explicit": true,
+        "track_number": 1,
+        "popularity": 76,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m",
+        "album_name": "ASTROWORLD"
+      },
+      {
+        "name": "YOSEMITE",
+        "id": "7lAK3oHbfEnvUQWosrMMpR",
+        "duration_ms": 150043,
+        "explicit": false,
+        "track_number": 12,
+        "popularity": 76,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR",
+        "album_name": "ASTROWORLD"
+      },
+      {
+        "name": "Goosebumps - Remix",
+        "id": "5uEYRdEIh9Bo4fpjDd4Na9",
+        "duration_ms": 162802,
+        "explicit": true,
+        "track_number": 1,
+        "popularity": 76,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9",
+        "album_name": "Goosebumps (Remix)"
+      },
+      {
+        "name": "Antidote",
+        "id": "1wHZx0LgzFHyeIZkUydNXq",
+        "duration_ms": 262693,
+        "explicit": true,
+        "track_number": 9,
+        "popularity": 75,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq",
+        "album_name": "Rodeo"
+      },
+      {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "id": "4jVBIpuOiMj1crqd8LoCrJ",
+        "duration_ms": 202794,
+        "explicit": true,
+        "track_number": 1,
+        "popularity": 75,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ",
+        "album_name": "FRANCHISE (feat. Young Thug & M.I.A.)"
+      },
+      {
+        "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+        "id": "6Yqmv7XJLCrQEauMbPGZSw",
+        "duration_ms": 349933,
+        "explicit": true,
+        "track_number": 11,
+        "popularity": 74,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw",
+        "album_name": "Rodeo"
+      },
+      {
+        "name": "Drugs You Should Try It",
+        "id": "4b7vk8SRcYgnxpk0JOIS7r",
+        "duration_ms": 208487,
+        "explicit": true,
+        "track_number": 4,
+        "popularity": 74,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r",
+        "album_name": "DAYS BEFORE RODEO"
+      },
+      {
+        "name": "THANK GOD",
+        "id": "1PH2MDbcBAU094DlgTIND1",
+        "duration_ms": 184888,
+        "explicit": true,
+        "track_number": 2,
+        "popularity": 73,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1",
+        "album_name": "UTOPIA"
+      },
+      {
+        "name": "NO BYSTANDERS",
+        "id": "6OaVWaGfhXn70ZJfdVcabn",
+        "duration_ms": 218283,
+        "explicit": true,
+        "track_number": 6,
+        "popularity": 73,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn",
+        "album_name": "ASTROWORLD"
+      },
+      {
+        "name": "Apple Pie",
+        "id": "6scpNkWEmUxmKY7nYjVLsX",
+        "duration_ms": 219360,
+        "explicit": true,
+        "track_number": 14,
+        "popularity": 73,
+        "preview_url": null,
+        "spotify_url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX",
+        "album_name": "Rodeo"
       }
     ]
   },
   "wikipedia": {
     "source": "wikipedia",
-    "query": "taylor",
-    "used_term": "Taylor Swift",
-    "summary": "Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter known for her autobiographical songwriting and artistic versatility. One of the world\u2019s best-selling artists, she is the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.\nSwift signed to Big Machine Records in 2005, debuting as a country singer with the albums Taylor Swift (2006) and Fearless (2008). The singles \"Teardrops on My Guitar\", \"Love Story\", and \"You Belong with Me\" found crossover success on country and pop radio formats. She incorporated rock on Speak Now (2010) and electronic on Red (2012), later re-calibrating her image from country to pop with the synth-pop set 1989 (2014); the ensuing media scrutiny inspired the hip-hop-imbued Reputation (2017). The albums contained the Billboard Hot 100 number-one singles \"We Are Never Ever Getting Back Together\", \"Shake It Off\", \"Blank Space\", \"Bad Blood\", and \"Look What You Made Me Do\".\nShifting to Republic Records in 2018, Swift released the electropop album Lover (2019) and explored indie folk styles in the 2020 albums Folklore and Evermore. She experimented with subdued pop genres on Midnights (2022) and The Tortured Poets Department (2024), and began re-recording her Big Machine albums as Taylor's Version due to an ownership dispute with the label. Through the 2020s, she garnered the US number-one songs \"Cardigan\", \"Willow\", \"All Too Well\", \"Anti-Hero\", \"Cruel Summer\", \"Is It Over Now?\", and \"Fortnight\". She has embarked on six concert tours, including the Eras Tour (2023\u20132024), the highest-grossing tour of all time. Her films include Miss Americana (2020), All Too Well: The Short Film (2021), and The Eras Tour (2023)\u2014the highest-grossing concert film.\nSwift has received extensive media coverage and has a global fanbase known as Swifties. Swift has been listed amongst history's greatest artists by publications such as Rolling Stone and Billboard, as well as the only individual from the arts to have been named the Time Person of the Year (2023). Her accolades include 14 Grammy Awards (including a record four Album of the Year wins), a Primetime Emmy Award, and a record five IFPI Global Recording Artist of the Year awards. Swift is the most-awarded artist of the American Music Awards (40), the Billboard Music Awards (49), and the MTV Video Music Awards (30).",
-    "url": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "query": "Travis Scott",
+    "used_term": "Travis Scott",
+    "summary": "Jacques Bermon Webster II (born April 30, 1991), known professionally as Travis Scott (formerly stylized as Travi$ Scott), is an American rapper, singer, songwriter, and record producer. Scott has had five number-one hits on the U.S. Billboard Hot 100 chart, along with a total of over one hundred charting songs. In addition to ten Grammy Award nominations, he has won a Latin Grammy Award, Billboard Music Award, MTV Video Music Award, and several BET Hip Hop Awards. Scott's musical style has been described as a \"blend between traditional hip-hop and lo-fi\" and often characterized as \"ambient,\" with a heavily appraised influence from rappers Kanye West and Kid Cudi. His stage name is derived from the latter's real name, Scott Mescudi, combined with the name of a favorite uncle.\nIn 2012, Scott signed his first major-label recording contract with Epic Records, as well as a publishing deal with Kanye West's GOOD Music as an in-house producer. In April 2013, he entered a joint-venture record deal with Georgia-based rapper T.I.'s Grand Hustle Records. Scott self-released his first full-length project, a mixtape titled Owl Pharaoh in 2013, which was followed by his debut mixtape, Days Before Rodeo (2014). His debut studio album, Rodeo (2015), was met with critical and commercial success; it spawned the singles \"3500\" (featuring Future and 2 Chainz) and \"Antidote\", the latter peaked at number 16 on the Billboard Hot 100. His second album, Birds in the Trap Sing McKnight (2016), became his first number-one album on the Billboard 200 chart. In the following year, Scott formed the duo Huncho Jack with rapper Quavo, with whom he released an eponymous collaborative album (2017).\nScott's third studio album, Astroworld (2018), was released to widespread critical acclaim and became his second consecutive number-one album on the Billboard 200. It yielded his first Billboard Hot 100 number-one single, \"Sicko Mode\" (featuring Drake). In late 2019, Scott's vanity label imprint, Cactus Jack Records released the compilation album JackBoys, which also topped the Billboard 200. With his 2019 single \"Highest in the Room\" and his 2020 singles \"The Scotts\" (with Kid Cudi) and \"Franchise\" (featuring Young Thug and M.I.A.), Scott became the first artist on the Billboard Hot 100 to have three songs debut at number one in less than a year. Following a series of controversies and five years after the release of his previous solo album, Scott released Utopia (2023), which became his fourth consecutive number-one album on the Billboard 200 and spawned the Billboard Hot 100 top-ten singles \"Meltdown\" (featuring Drake), \"Fein\" (featuring Playboi Carti), and \"K-pop\" (with Bad Bunny and The Weeknd). In 2025, he released the single \"4x4\", which peaked atop the Billboard Hot 100.\nAlong with his highly publicized relationship with American media personality Kylie Jenner, Scott has collaborated with organizations including Nike, Dior, and McDonald's. His Cactus Jack record label, founded in 2017, has signed artists including Don Toliver and Sheck Wes. Scott has gained notoriety for controversies and legal issues regarding concert safety. In November 2021, a mass-casualty crowd crush occurred during Scott's hometown performance at his annual Astroworld Festival, causing ten deaths and hundreds of injuries.",
+    "url": "https://en.wikipedia.org/wiki/Travis_Scott",
     "categories": [
-      "Category:1989 births",
-      "Category:21st-century American actresses",
-      "Category:21st-century American philanthropists",
-      "Category:21st-century American songwriters",
-      "Category:21st-century American women guitarists",
-      "Category:21st-century American women philanthropists",
-      "Category:21st-century American women pianists",
-      "Category:21st-century American women singers",
-      "Category:Actresses from Nashville, Tennessee",
-      "Category:Actresses from Pennsylvania",
+      "Category:1991 births",
+      "Category:20th-century American male rappers",
+      "Category:21st-century African-American male singers",
+      "Category:21st-century American male singers",
+      "Category:21st-century American rappers",
+      "Category:21st-century American singer-songwriters",
+      "Category:African-American male rappers",
+      "Category:African-American male singer-songwriters",
+      "Category:African-American record producers",
+      "Category:Age controversies",
       "Category:All Wikipedia articles written in American English",
-      "Category:American acoustic guitarists",
-      "Category:American billionaires",
-      "Category:American country banjoists",
-      "Category:American country guitarists",
-      "Category:American country pianists",
-      "Category:American country record producers",
-      "Category:American country singer-songwriters",
-      "Category:American feminist musicians",
-      "Category:American film actresses",
-      "Category:American folk guitarists",
-      "Category:American folk musicians",
-      "Category:American folk singers",
-      "Category:American mezzo-sopranos",
-      "Category:American multi-instrumentalists",
-      "Category:American music video directors",
-      "Category:American people of English descent",
-      "Category:American people of German descent",
-      "Category:American people of Italian descent",
-      "Category:American people of Scottish descent",
-      "Category:American pop guitarists",
-      "Category:American pop pianists",
-      "Category:American synth-pop singers",
-      "Category:American television actresses",
-      "Category:American voice actresses",
-      "Category:American women company founders",
-      "Category:American women country singers",
-      "Category:American women guitarists",
-      "Category:American women pop singers",
-      "Category:American women record producers",
-      "Category:American women rock singers",
-      "Category:American women singer-songwriters",
-      "Category:American women songwriters",
+      "Category:All articles with unsourced statements",
+      "Category:Alternative hip-hop musicians",
+      "Category:American experimental musicians",
+      "Category:American hip-hop record producers",
+      "Category:American hip-hop singers",
+      "Category:American trap musicians",
       "Category:Articles with MusicBrainz artist links",
-      "Category:Articles with hAudio microformats",
       "Category:Articles with hCards",
       "Category:Articles with short description",
-      "Category:Baldi family",
-      "Category:Big Machine Records artists",
+      "Category:Articles with unsourced statements from July 2023",
+      "Category:Articles with unsourced statements from June 2023",
       "Category:Biography with signature",
-      "Category:Brit Award winners",
-      "Category:CS1 Brazilian Portuguese-language sources (pt-br)",
-      "Category:CS1 German-language sources (de)",
-      "Category:CS1 Italian-language sources (it)",
-      "Category:CS1 Portuguese-language sources (pt)",
-      "Category:Christians from Tennessee",
-      "Category:Country musicians from Pennsylvania",
-      "Category:Country musicians from Tennessee",
-      "Category:Country pop musicians",
-      "Category:Featured articles",
-      "Category:Female billionaires",
-      "Category:Female music video directors",
-      "Category:Film directors from Pennsylvania",
-      "Category:Film directors from Tennessee",
-      "Category:Grammy Award winners",
-      "Category:Guitarists from Pennsylvania",
-      "Category:Guitarists from Tennessee",
+      "Category:CS1 European Spanish-language sources (es-es)",
+      "Category:CS1 Spanish-language sources (es)",
+      "Category:CS1 maint: multiple names: authors list",
+      "Category:CS1 maint: numeric names: authors list",
+      "Category:Commons category link from Wikidata",
+      "Category:Epic Records artists",
+      "Category:GOOD Music artists",
+      "Category:Grand Hustle Records artists",
+      "Category:Kardashian\u2013Jenner family",
+      "Category:Latin Grammy Award winners",
       "Category:Living people",
-      "Category:MTV Europe Music Award winners",
       "Category:MTV Video Music Award winners",
       "Category:MusicBrainz artist same as Wikidata",
-      "Category:NME Awards winners",
-      "Category:Pages using Sister project links with hidden wikidata",
-      "Category:People from Bucks County, Pennsylvania",
-      "Category:Philanthropists from Pennsylvania",
-      "Category:Philanthropists from Tennessee",
-      "Category:Primetime Emmy Award winners",
-      "Category:RCA Records artists",
-      "Category:Record producers from Pennsylvania",
-      "Category:Record producers from Tennessee",
-      "Category:Republic Records artists",
-      "Category:Short description is different from Wikidata",
+      "Category:Official website different in Wikidata and Wikipedia",
+      "Category:People from Missouri City, Texas",
+      "Category:Pop rappers",
+      "Category:Psychedelic rappers",
+      "Category:Psychedelic rock musicians",
+      "Category:Rappers from Houston",
+      "Category:Record producers from Texas",
       "Category:Short description matches Wikidata",
-      "Category:Singer-songwriters from Pennsylvania",
-      "Category:Singer-songwriters from Tennessee",
-      "Category:Singers from Nashville, Tennessee",
-      "Category:Sony Music Publishing artists",
-      "Category:Taylor Swift",
-      "Category:Time Person of the Year",
-      "Category:Universal Music Group artists",
-      "Category:Use American English from March 2024",
-      "Category:Use mdy dates from March 2024",
-      "Category:Wikipedia extended-confirmed-protected pages"
+      "Category:Singer-songwriters from Texas",
+      "Category:Spokespersons",
+      "Category:Telegram username not in Wikidata",
+      "Category:Travis Scott",
+      "Category:University of Texas at San Antonio alumni",
+      "Category:Use American English from November 2021",
+      "Category:Use mdy dates from August 2023",
+      "Category:Wikipedia indefinitely semi-protected biographies of living people"
     ],
     "sections": [
       {
         "title": "Early life",
-        "content": "Taylor Alison Swift was born on December 13, 1989, in West Reading, Pennsylvania. She is named after the singer-songwriter James Taylor. Her father, Scott Kingsley Swift, was a stockbroker for Merrill Lynch, and her mother, Andrea Gardner Swift (n\u00e9e Finlay), worked as a mutual fund marketing executive. Swift's younger brother, Austin, is an actor.  The siblings are of Scottish, English, and German descent, with distant Italian and Irish ancestry. Their maternal grandmother, Marjorie Finlay (n\u00e9e Moehlenkamp), was an opera singer, whose singing in church became one of Swift's earliest memories of music that shaped her career.\nSwift spent her early years on a Christmas tree farm in Pennsylvania that her father had purchased from one of his clients, and she spent her summers at her family's vacation home in Stone Harbor, New Jersey, where she occasionally performed acoustic songs at a local coffee shop. She is Christian and attended preschool and kindergarten at a Montessori school run by the Bernardine Sisters of St. Francis before transferring to the Wyndcroft School. When her family moved to Wyomissing, she attended Wyomissing Area Junior/Senior High School. As a child, she performed in Berks Youth Theatre Academy productions and traveled regularly to New York City for vocal and acting lessons. Her early love for country music was influenced by Shania Twain, Patsy Cline, LeAnn Rimes, and the Dixie Chicks, and she spent weekends performing at local festivals and events. After watching a documentary about Faith Hill, she became determined to pursue a country music career in Nashville, Tennessee.\nAt 11, Swift traveled to Nashville with her mother to visit record labels and submit demo tapes of Dolly Parton and Dixie Chicks karaoke covers. She was rejected by all the labels, which led her to focus on songwriting. She started learning the guitar at 12 with the help of Ronnie Cremer, a computer repairman and local musician who also assisted Swift with writing an original song. In 2003, Swift and her parents started working with the talent manager Dan Dymtrow. With his help, Swift modeled for Abercrombie & Fitch and had an original song included on a Maybelline compilation CD. After performing original songs at an RCA Records showcase, 13-year-old Swift was given an artist development deal and began to travel regularly to Nashville with her mother. To help Swift break into the country music scene, her father transferred to Merrill Lynch's Nashville office when she was 14 years old, and the family relocated to Hendersonville, Tennessee. Swift attended Hendersonville High School before transferring to Aaron Academy after two years, which better accommodated her touring schedule through homeschooling. She graduated one year early."
+        "content": "Jacques Bermon Webster II was born on April 30, 1991, in Houston, Texas. From ages one through six, Webster lived with his grandmother in South Park, Houston. The neighborhood was notorious for crime and had an impact on a young Webster, \"Growing up, my grandmother stayed in the 'hood so I seen random crazy shit. [I saw] mad bums and crazy spazzed out motherfuckers, I saw people looking weird, hungry, and grimey [sic]. I was always like, 'I gotta get the fuck out this shit.' It gave me my edge\u2014[it made me] who I am right now.\"\nWebster moved to Missouri City, a middle-class suburban area bordering southwest Houston, to live with his parents. His mother worked for Apple and his father ran his own business. Webster's father is also a soul musician and his grandfather was a jazz composer. Webster attended Elkins High School and graduated at seventeen. During high school, he participated in musical theater. Webster then attended the University of Texas at San Antonio, before dropping out his second year to fully pursue his music career.\nDuring an interview, Webster revealed he chose his moniker as a combination of his favorite uncle, Travis, and the first name of one of his biggest inspirations, Kid Cudi (whose real name is Scott Mescudi)."
       },
       {
         "title": "Career",
+        "content": ""
+      },
+      {
+        "title": "Other ventures",
         "content": ""
       },
       {
@@ -1097,45 +828,49 @@
         "content": ""
       },
       {
-        "title": "Achievements",
-        "content": "Swift's discography is a \"critically hailed songbook\", as per Time's Sam Lansky. She has won 14 Grammy Awards (including four for Album of the Year\u2014the most won by an artist), an Emmy Award, 40 American Music Awards (the most won by an artist), 49 Billboard Music Awards (the most won by an artist), 118 Guinness World Records, 30 MTV Video Music Awards (including five Video of the Year wins\u2014the most by an act), 12 Country Music Association Awards (including the Pinnacle Award), eight Academy of Country Music Awards, and two Brit Awards. As a songwriter, she has been honored by the Nashville Songwriters Association, the Songwriters Hall of Fame, and the National Music Publishers' Association and was the youngest person on Rolling Stone's list of the 100 Greatest Songwriters of All Time in 2015. At the 64th BMI Awards in 2016, Swift was the first woman to be honored with an award named after its recipient.\nFrom available data, Swift has amassed over 50 million album sales and 150 million single sales as of 2019, and 114 million units globally, including 78 billion streams as of 2021. The International Federation of the Phonographic Industry ranked her as the Global Recording Artist of the Year for a record five times (2014, 2019, 2022, 2023, and 2024). Swift has the most number-one albums in the UK and Ireland for a female artist this century, earned the highest income for an artist on Chinese digital music platforms (CN\u00a5 159,000,000 as of 2021), and is the first artist to occupy the entire top five of the Australian albums chart and the top ten of the country's singles chart. Swift remains the world's highest-grossing touring act ever, with cumulative ticket sales at $3.12 billion as of December 2024, per Pollstar. The Eras Tour is the highest-grossing tour of all time and the first to surpass $1 billion in revenue. Beginning with Fearless, each of her studio albums have opened with over one million global units. Swift is the most-streamed act on Spotify, and the most-streamed female artist on Apple Music. On Spotify, she is the only female act to amass 100 billion streams, the only artist to have received more than 250 million and 350 million streams in one day (260 million on October 27, 2023, and 380 million on April 19, 2024), and was the first female act to reach 100 million monthly listeners. The most entries and the most simultaneous entries (175 and 34 songs), and most number-ones (5) for a soloist on the Billboard Global 200, are among her feats. Swift is the first and only artist to occupy the top nine spots on the Global 200. She has the most entries (154), top-ten songs (20), and number-ones (3) among solo acts on the Global 200 Excl. US.\nIn the US, Swift has sold over 37.3 million albums as of 2019, when Billboard placed her eighth on its Greatest of All Time Artists Chart. Twelve of her songs have topped the Billboard Hot 100. She is the longest-reigning and the first act to spend at least 100 weeks atop the Billboard Artist 100 (124 weeks); the soloist with the most cumulative weeks atop and in the top ten of the Billboard 200 (84 and 425); the woman with the most Billboard 200 number-ones (14), Hot 100 entries (total and single-week: 264 and 32), number-one debuts (7), top-ten songs (59), top-five songs (36), Streaming Songs chart-toppers (9), and weeks atop the Top Country Albums chart (101); and the act with the most number-one songs on Pop Airplay (13) and Digital Songs (29). Swift is the first woman to simultaneously chart five albums in the top 10 and eleven albums on the entire Billboard 200; and the first act to occupy the top four spots and chart seven albums in the top 10 on the Top Album Sales chart. She is the third highest-certified female digital singles artist (and seventh overall) in the US, with 137.5 million total units certified by the Recording Industry Association of America (RIAA), and the first woman to have both an album (Fearless) and a song (\"Shake It Off\") certified Diamond. Swift is the only artist in Luminate history to have seven albums sell over a million copies in a week.\nSwift has appeared in various power listings. Time included her on its annual list of the 100 most influential people in 2010, 2015, and 2019. She was one of the \"Silence Breakers\" that the magazine spotlighted as Person of the Year in 2017 for speaking up about sexual assault, and she received the honor again in 2023 for her cultural domination that year. Rolling Stone ranked Swift at 102 on their list of 200 Best Singers of All Time in 2023. Time described Swift as the first Person of the Year to be recognized for \"achievement in the arts\", as well as the first woman to be recognized and appear on a Person of the Year cover more than once. She received an honorary Doctor of Fine Arts degree from New York University and served as its commencement speaker on May 18, 2022."
+        "title": "Creative vision",
+        "content": "In 2016, Harmony Korine, an American filmmaker, teamed with Scott and fellow American rapper Gucci Mane to release a collaborative music video for their collaboration \"Last Time\"; Korine made a cameo appearance in the short directed by David Helman.\nIn 2018, Scott has said that he is a fan of Broadway theatre and would like to do an album of show tune covers. He has said that he would like to write his own musical in the future.\nIn 2021, Scott starred in a cover story of i-D Magazine Issue 362 \"Utopia in Dystopia\" photographed by Spike Jonze. Scott graced two covers for the issue, including a limited-edition cover featuring original artwork by Jonze. Scott teamed up with i-D Magazine for a limited edition merch capsule release. Scott added his original signature artwork to the special edition issue of the magazine. His classic scrawled artwork also makes an appearance on the Travis Scott X i-D collaborative merch.\nScott has also collaborated with the photographer David LaChappelle. Scott's album Astroworld's cover art was reportedly shot by LaChappelle. The artwork featured a large golden replica of Scott's head."
       },
       {
-        "title": "Cultural status",
-        "content": "Swift has been credited with making a profound impact on the music industry, popular culture, and the economy. She dominates cultural conversations, leading some publications to describe her as a cultural \"vitality\" or zeitgeist. Her music, life, and public image are points of attention in global celebrity culture. Initially a teen idol, she has been referred to as a pop icon; publications describe her enormous popularity and longevity as unwitnessed since the 20th century. In 2013, New York magazine's Jody Rosen dubbed Swift the \"world's biggest pop star\" and opined that the trajectory of her stardom has defied established patterns. Rosen added that Swift \"falls between genres, eras, demographics, paradigms, trends\", leaving her contemporaries \"vying for second place\". Critics regard Swift as a rare yet successful combination of the pop star and singer-songwriter archetypes.\nSwift's fans are known as Swifties. Billboard noted that only a few artists have achieved her level of chart success, critical acclaim, and fan support. Swift's million-selling albums are considered an anomaly in the streaming-dominated industry following the end of the album era in the 2010s. Economist Alan Krueger described Swift as an \"economic genius\".\nAlthough labeled by the media in her early career as \"America's Sweetheart\" for her girl next door persona, Swift has been called by detractors \"calculated\" and manipulative of her image, a narrative bolstered by her 2016 dispute with West. Critics have also noted that her personal life and career have been subject to intense misogyny and \"slut-shaming\", as well as rampant media scrutiny and tabloid speculation. Swift has also been a victim of numerous house break-ins and stalkers, some of whom were armed.\nSwift's private jet use has drawn scrutiny for its carbon emissions. In 2023, a spokesperson for Swift stated that she had purchased more than double the required carbon credits to offset all tour travel and personal flights. In December 2023, Swift's lawyers sent a cease and desist letter to American programmer Jack Sweeney over tracking her private jet, alleging stalking and safety risks; media outlets have reported that the information posted by Sweeney is a synthesis of publicly available data. In February 2024, it was reported that Swift had sold one of her two private jets."
+        "title": "Philanthropy",
+        "content": ""
       },
       {
-        "title": "Wealth and philanthropy",
-        "content": "Swift became a billionaire in October 2023, becoming the world's first musician to achieve the status \"solely based on her songs and performances\". As of October 2024, Forbes estimates her net worth at $1.6 billion, making her the richest female musician in the world, and one of the wealthiest celebrities. Forbes had previously named her the annual top-earning female musician in 2016, 2019, 2021, and 2022. She was the highest-paid celebrity of 2016 with $170 million\u2014a feat recognized by Guinness World Records as the highest annual earnings ever for a female musician, which she herself surpassed with $185 million in 2019. Overall, Swift was listed as the Forbes highest-paid female artist of the 2010s, earning $825 million. She has also developed a real estate portfolio worth $150 million as of 2023, with residential properties in Nashville, New York City, Los Angeles (Samuel Goldwyn Estate), and Rhode Island (High Watch).\nSwift ranked first on DoSomething's 2015 \"Gone Good\" list, having received the Star of Compassion from the Tennessee Disaster Services and the Big Help Award from the Nickelodeon Kids' Choice Awards for her \"dedication to helping others\" and \"inspiring others through action\". Especially early in her career, Swift donated to various relief funds following natural disasters. In 2009, she donated $100,000 to the Red Cross to help the victims of the Iowa flood of 2008. The same year, she performed at Sydney's Sound Relief concert, which raised money for those impacted by bushfires and flooding. In 2011, Swift used a dress rehearsal of her Speak Now tour as a benefit concert for victims of recent tornadoes in the US, raising more than $750,000. In response to the May 2010 Tennessee floods, she donated $500,000. In 2009, Swift sang at BBC's Children in Need concert and raised \u00a313,000 for the cause. In 2016, she donated $1 million to Louisiana flood relief efforts and $100,000 to the Dolly Parton Fire Fund. Swift donated to food banks after Hurricane Harvey struck Houston in 2017. Swift donated $1 million for Tennessee tornado relief in 2020 and again in 2023, as well as $5 million toward the reliefs efforts after Hurricane Helene and Hurricane Milton in 2024.\nSwift has also donated to cancer research. As recipient of the Academy of Country Music's Entertainer of the Year in 2011, Swift donated $25,000 to St. Jude Children's Research Hospital, Tennessee. In 2012, she participated in the Stand Up to Cancer telethon, performing the charity single \"Ronan\", which she wrote in memory of a four-year-old boy who died of neuroblastoma. She has also donated $100,000 to the V Foundation for Cancer Research and $50,000 to the Children's Hospital of Philadelphia. She has made donations to her fans several times for their medical or academic expenses. During the COVID-19 pandemic, Swift donated to the World Health Organization and Feeding America and supported independent record stores. Swift performed \"Soon You'll Get Better\" on the One World: Together At Home television special, a benefit concert curated by Lady Gaga for Global Citizen to raise funds for the World Health Organization's COVID-19 Solidarity Response Fund.\nShe is a supporter of the arts. A benefactor of the Nashville Songwriters Hall of Fame, Swift has donated $75,000 to Nashville's Hendersonville High School to help refurbish the school auditorium, $4 million to build a new education center at the Country Music Hall of Fame and Museum in Nashville, and $100,000 to the Nashville Symphony. In 2012, Swift partnered with Chegg for Good to donate $10,000 to the music departments of six US colleges. \nShe has also provided one-off donations. In 2007, she partnered with the Tennessee Association of Chiefs of Police to launch a campaign to protect children from online predators. She has donated items to several charities for auction, including the UNICEF Tap Project and MusiCares. Swift has also encouraged young people to volunteer in their local communities as part of Global Youth Service Day. Also a promoter of children's literacy, she has donated money and books to schools around the country. In 2018 and 2021, Swift donated to the Rape, Abuse & Incest National Network in honor of Sexual Assault Awareness and Prevention Month. Swift donated to fellow singer-songwriter Kesha to help with her legal battles against Dr. Luke and to actress Mariska Hargitay's Joyful Heart Foundation.\nDuring the Eras Tour, Swift donated to food banks in Florida, Arizona, and Las Vegas; she also directly employed local businesses throughout the tour and gave $197 million in bonus payments to her entire crew. In February 2024, she donated $100,000 to the family of a woman who died in a shooting at the Kansas City Chiefs' Super Bowl parade. In December 2024, a week before Christmas, Swift donated $250,000 to Operation Breakthrough. The funds were directed to workforce development, childcare, and early learning programs."
+        "title": "Personal life",
+        "content": "Scott began dating media personality and businesswoman Kylie Jenner in April 2017. In February 2018, Jenner gave birth to their daughter. Jenner appeared in the music video for \"Stop Trying to Be God\", from Scott's third studio album Astroworld. They broke up in September 2019, but quarantined together during the COVID-19 pandemic for the sake of their daughter and ended up rekindling their relationship. On September 7, 2021, after weeks of speculation, Jenner revealed that she and Scott were expecting their second child. Jenner gave birth to their son in February 2022. The couple separated for a second time by January 2023."
+      },
+      {
+        "title": "Legal issues",
+        "content": ""
       },
       {
         "title": "Discography",
-        "content": ""
+        "content": "Studio albums\n\nRodeo (2015)\nBirds in the Trap Sing McKnight (2016)\nAstroworld (2018)\nUtopia (2023)\nCollaborative albums\n\nHuncho Jack, Jack Huncho (with Quavo as Huncho Jack) (2017)\nJackBoys (with Cactus Jack Records) (2019)\nJackBoys 2 (with Cactus Jack Records) (2025)"
       },
       {
         "title": "Filmography",
         "content": ""
       },
       {
-        "title": "Tours",
-        "content": "Fearless Tour (2009\u20132010)\nSpeak Now World Tour (2011\u20132012)\nThe Red Tour (2013\u20132014)\nThe 1989 World Tour (2015)\nReputation Stadium Tour (2018)\nThe Eras Tour (2023\u20132024)"
+        "title": "Awards and nominations",
+        "content": ""
       },
       {
-        "title": "Footnotes",
-        "content": ""
+        "title": "Tours",
+        "content": "Headlining\n\nRodeo Tour (2015)\nBirds Eye View Tour (2017)\nAstroworld: Wish You Were Here Tour (2018\u20132019)\nAstroworld Festival (also known as Astrofest) (2018\u20132019, 2021)\nCircus Maximus Tour (2023\u20132025)\nSupporting\n\nNever Sober Tour (with Juicy J and Project Pat) (2015)\nThe Madness Fall Tour (with The Weeknd and Banks) (2015)\nAnti World Tour (with Rihanna) (2016)\nThe Damn. Tour (with Kendrick Lamar and DRAM) (2017)"
       }
     ],
-    "content_snippet": "Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter known for her autobiographical songwriting and artistic versatility. One of the world\u2019s best-selling artists, she is the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.\nSwift signed to Big Machine Records in 2005, debuting as a country singer with the albums Taylor Swift (2006) and Fearless (2008). The singles \"Teardrops on My Guitar\", \"Love Story\", and \"You Belong with Me\" found crossover success on country and pop radio formats. She incorporated rock on Speak Now (2010) and electronic on Red (2012), later re-calibrating her image from country to pop with the synth-pop set 1989 (2014); the ensuing media scrutiny inspired the hip-hop-imbued Reputation (2017). The al"
+    "content_snippet": "Jacques Bermon Webster II (born April 30, 1991), known professionally as Travis Scott (formerly stylized as Travi$ Scott), is an American rapper, singer, songwriter, and record producer. Scott has had five number-one hits on the U.S. Billboard Hot 100 chart, along with a total of over one hundred charting songs. In addition to ten Grammy Award nominations, he has won a Latin Grammy Award, Billboard Music Award, MTV Video Music Award, and several BET Hip Hop Awards. Scott's musical style has been described as a \"blend between traditional hip-hop and lo-fi\" and often characterized as \"ambient,\" with a heavily appraised influence from rappers Kanye West and Kid Cudi. His stage name is derived from the latter's real name, Scott Mescudi, combined with the name of a favorite uncle.\nIn 2012, Scott signed his first major-label recording contract with Epic Records, as well as a publishing deal with Kanye West's GOOD Music as an in-house producer. In April 2013, he entered a joint-venture record"
   },
   "genius": {
     "source": "genius",
-    "artist": "Taylor Swift",
+    "artist": "Travis Scott",
     "lyrics": {
-      "Cruel Summer": "(Yeah, yeah, yeah, yeah) Fever dream high in the quiet of the night You know that I caught it (Oh yeah, you're right, I want it) Bad, bad boy, shiny toy with a price You know that I bought it (Oh yeah, you're right, I want it) Killing me slow, out the window I'm always waiting for you to be waiting below Devils roll the dice, angels roll their eyes What doesn't kill me makes me want you more And it's new, the shape of your body It's blue, the feeling I've got And it's ooh, woah-oh It's a cruel summer It's cool, that's what I tell 'em No rules in breakable heaven But ooh, woah-oh It's a cruel summer with you Hang your head low in the glow of the vending machine I'm not dying (Oh yeah, you're right, I want it) We say that we'll just screw it up in these trying times We're not trying (Oh yeah, you're right, I want it) So cut the headlights, summer's a knife I'm always waiting for you just to cut to the bone Devils roll the dice, angels roll their eyes And if I bleed, you'll be the last to know, oh It's new, the shape of your body It's blue, the feeling I've got And it's ooh, woah-oh It's a cruel summer It's cool, that's what I tell 'em No rules in breakable heaven But ooh, woah-oh It's a cruel summer with you I'm drunk in the back of the car And I cried like a baby comin' home from the bar (Oh) Said, \"I'm fine,\" but it wasn't true I don't wanna keep secrets just to keep you And I snuck in through the garden gate Every night that summer just to seal my fate (Oh) And I scream, \"For whatever it's worth I love you, ain't that the worst thing you ever heard?\" He looks up, grinnin' like a devil It's new, the shape of your body It's blue, the feeling I've got And it's ooh, woah-oh It's a cruel summer It's cool, that's what I tell 'em No rules in breakable heaven But ooh, woah-oh It's a cruel summer with you I'm drunk in the back of the car And I cried like a baby comin' home from the bar (Oh) Said, \"I'm fine,\" but it wasn't true I don't wanna keep secrets just to keep you And I snuck in through the garden gate Every night that summer just to seal my fate (Oh) And I scream, \"For whatever it's worth I love you, ain't that the worst thing you ever heard?\" (Yeah, yeah, yeah, yeah)",
-      "Lover": "We could leave the Christmas lights up 'til January And this is our place, we make the rules And there's a dazzling haze, a mysterious way about you, dear Have I known you twenty seconds or twenty years? Can I go where you go? Can we always be this close? Forever and ever, ah Take me out and take me home You're my, my, my, my lover We could let our friends crash in the living room This is our place, we make the call And I'm highly suspicious that everyone who sees you wants you I've loved you three summers now, honey, but I want 'em all Can I go where you go? Can we always be this close? Forever and ever, ah Take me out and take me home (Forever and ever) You're my, my, my, my lover Ladies and gentlemen, will you please stand? With every guitar string scar on my hand I take this magnetic force of a man to be my lover My heart's been borrowed and yours has been blue All's well that ends well to end up with you Swear to be overdramatic and true to my lover And you'll save all your dirtiest jokes for me And at every table, I'll save you a seat, lover Can I go where you go? Can we always be this close? Forever and ever, ah Take me out and take me home (Forever and ever) You're my, my, my, my Oh, you're my, my, my, my Darling, you're my, my, my, my lover",
-      "Fortnight (feat. Post Malone)": "Em \u0111a\u0301ng ra pha\u0309i bi\u0323 ba\u0306\u0301t \u0111i ro\u0302\u0300i Nhu\u031bng ngu\u031bo\u031b\u0300i ta \u0111a\u0303 que\u0302n \u0111e\u0302\u0301n \u0111o\u0301n em Em la\u0300 mo\u0323\u0302t con sa\u0302u ru\u031bo\u031b\u0323u \u0111ang so\u0302\u0301ng o\u0302\u0309n thoa\u0309 Cho \u0111e\u0302\u0301n khi cha\u0306\u0309ng co\u0300n ai \u0111e\u0302\u0309 y\u0301 \u0111e\u0302\u0301n gu tha\u0302\u0309m my\u0303 mo\u031b\u0301i cu\u0309a em nu\u031b\u0303a Ta\u0302\u0301t ca\u0309 \u0111e\u0302\u0309 no\u0301i ra\u0306\u0300ng Em mong anh va\u0302\u0303n o\u0302\u0309n Nhu\u031bng anh chi\u0301nh la\u0300 ly\u0301 do Va\u0300 cha\u0306\u0309ng ai tra\u0301ch gi\u0300 \u0111a\u0302u Nhu\u031bng co\u0300n su\u031b\u0323 pha\u0309n bo\u0323\u0302i la\u0323\u0306ng tha\u0302\u0300m cu\u0309a anh thi\u0300 sao? Va\u0300 trong suo\u0302\u0301t 2 tua\u0302\u0300n a\u0302\u0301y, mi\u0300nh be\u0302n nhau muo\u0302n \u0111o\u031b\u0300i \u0110o\u0302i la\u0302\u0300n cha\u0323m ma\u0323\u0306t anh, ho\u0309i vu vo\u031b tho\u031b\u0300i tie\u0302\u0301t Gio\u031b\u0300 anh sau sa\u0302n vu\u031bo\u031b\u0300n, ho\u0301a tha\u0300nh ha\u0300ng xo\u0301m to\u0302\u0301t Vo\u031b\u0323 anh \u0111ang tu\u031bo\u031b\u0301i hoa, em muo\u0302\u0301n gie\u0302\u0301t che\u0302\u0301t a\u0309 Nhu\u031b\u0303ng so\u031b\u0301m mai cu\u0309a em la\u0300 nhu\u031b\u0303ng thu\u031b\u0301 Hai ma\u0306\u0301c ke\u0323t trong mo\u0323\u0302t tha\u0301ng 2 ba\u0302\u0301t ta\u0323\u0302n Em \u0111a\u0303 uo\u0302\u0301ng thu\u031b\u0301 thuo\u0302\u0301c bu\u031bo\u031b\u0301c tie\u0302\u0301p die\u0323\u0302u ky\u0300, nhu\u031bng ta\u0301c du\u0323ng chi\u0309 la\u0300 ta\u0323m tho\u031b\u0300i tho\u0302i Va\u0300 em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em cha\u0323m va\u0300o anh trong vo\u0309n ve\u0323n 2 tua\u0302\u0300n Em cha\u0323m va\u0300o anh, nhu\u031bng em \u0111a\u0303 be\u0302n anh Va\u0300 trong suo\u0302\u0301t 2 tua\u0302\u0300n a\u0302\u0301y, mi\u0300nh \u0111a\u0303 cu\u0300ng be\u0302n nhau \u0110o\u0302i la\u0302\u0300n cha\u0323m ma\u0323\u0306t anh, ho\u0309i vu vo\u031b tho\u031b\u0300i tie\u0302\u0301t Gio\u031b\u0300 anh sau sa\u0302n vu\u031bo\u031b\u0300n, ho\u0301a tha\u0300nh ha\u0300ng xo\u0301m to\u0302\u0301t Vo\u031b\u0323 anh \u0111ang tu\u031bo\u031b\u0301i hoa, em muo\u0302\u0301n gie\u0302\u0301t che\u0302\u0301t a\u0309 Va\u0300 trong suo\u0302\u0301t 2 tua\u0302\u0300n a\u0302\u0301y, mi\u0300nh \u0111a\u0303 cu\u0300ng be\u0302n nhau \u0110o\u0302i la\u0302\u0300n cha\u0323m ma\u0323\u0306t anh, khen chie\u0302\u0301c a\u0301o em mang Gio\u031b\u0300 anh o\u031b\u0309 ho\u0300m thu\u031b, ho\u0301a tha\u0300nh ha\u0300ng xo\u0301m to\u0302\u0301t Cho\u0302\u0300ng em \u0111ang ngoa\u0323i ti\u0300nh, em muo\u0302\u0301n gie\u0302\u0301t che\u0302\u0301t a\u0309nh Em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em cha\u0323m to\u031b\u0301i anh trong vo\u0309n ve\u0323n 2 tua\u0302\u0300n Em cha\u0323m va\u0300o anh, em cha\u0323m va\u0300o anh Em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em ye\u0302u anh, thu\u031b\u0301 ti\u0300nh ye\u0302u \u0111ang pha\u0301 hu\u0309y \u0111o\u031b\u0300i em Em cha\u0323m to\u031b\u0301i anh trong vo\u0309n ve\u0323n 2 tua\u0302\u0300n Em cha\u0323m va\u0300o anh, em cha\u0323m va\u0300o anh Nghi\u0303 \u0111e\u0302\u0301n chuye\u0323\u0302n go\u0323i em, nhu\u031bng em cha\u0306\u0309ng ba\u0306\u0301t ma\u0301y The\u0302m 2 tua\u0302\u0300n nu\u031b\u0303a la\u0323c giu\u031b\u0303a xu\u031b\u0301 co\u031b\u0300 hoa Chuye\u0302\u0309n \u0111e\u0302\u0301n Florida, mua chie\u0302\u0301c xe em thi\u0301ch Nhu\u031bng no\u0301 cha\u0306\u0309ng no\u0302\u0309 ma\u0301y to\u031b\u0301i khi em cha\u0323m, cha\u0323m, cha\u0323m va\u0300o anh Nghi\u0303 \u0111e\u0302\u0301n chuye\u0323\u0302n go\u0323i em, nhu\u031bng em cha\u0306\u0309ng ba\u0306\u0301t ma\u0301y The\u0302m 2 tua\u0302\u0300n nu\u031b\u0303a la\u0323c giu\u031b\u0303a xu\u031b\u0301 co\u031b\u0300 hoa Chuye\u0302\u0309n \u0111e\u0302\u0301n Florida, mua chie\u0302\u0301c xe em thi\u0301ch Nhu\u031bng no\u0301 cha\u0306\u0309ng no\u0302\u0309 ma\u0301y to\u031b\u0301i khi em cha\u0323m, cha\u0323m, cha\u0323m va\u0300o anh",
-      "cardigan": "Vintage tee, brand new phone High heels on cobblestones When you are young, they assume you know nothing Sequin smile, black lipstick Sensual politics When you are young, they assume you know nothing But I knew you Dancin' in your Levi's Drunk under a streetlight, I I knew you Hand under my sweatshirt Baby, kiss it better, I And when I felt like I was an old cardigan Under someone's bed You put me on and said I was your favorite A friend to all is a friend to none Chase two girls, lose the one When you are young, they assume you know nothing But I knew you Playing hide-and-seek and Giving me your weekends, I I knew you Your heartbeat on the High Line Once in twenty lifetimes, I And when I felt like I was an old cardigan Under someone's bed You put me on and said I was your favorite To kiss in cars and downtown bars Was all we needed You drew stars around my scars But now I'm bleedin' 'Cause I knew you Steppin' on the last train Marked me like a bloodstain, I I knew you Tried to change the ending Peter losing Wendy, I I knew you Leavin' like a father Running like water, I And when you are young, they assume you know nothing But I knew you'd linger like a tattoo kiss I knew you'd haunt all of my what-ifs The smell of smoke would hang around this long 'Cause I knew everything when I was young I knew I'd curse you for the longest time Chasin' shadows in the grocery line I knew you'd miss me once the thrill expired And you'd be standin' in my front porch light And I knew you'd come back to me You'd come back to me And you'd come back to me And you'd come back And when I felt like I was an old cardigan Under someone's bed You put me on and said I was your favorite",
-      "august": "Salt air, and the rust on your door I never needed anything more Whispers of \"Are you sure?\" \"Never have I ever before\" But I can see us lost in the memory August slipped away into a moment in time 'Cause it was never mine And I can see us twisted in bedsheets August sipped away like a bottle of wine 'Cause you were never mine Your back beneath the sun Wishin' I could write my name on it Will you call when you're back at school? I remember thinkin' I had you But I can see us lost in the memory August slipped away into a moment in time 'Cause it was never mine And I can see us twisted in bedsheets August sipped away like a bottle of wine 'Cause you were never mine Back when we were still changin' for the better Wanting was enough For me, it was enough To live for the hope of it all Cancel plans just in case you'd call And say, \"Meet me behind the mall\" So much for summer love and saying \"us\" 'Cause you weren't mine to lose You weren't mine to lose, no But I can see us lost in the memory August slipped away into a moment in time 'Cause it was never mine And I can see us twisted in bedsheets August sipped away like a bottle of wine 'Cause you were never mine 'Cause you were never mine Never mine But do you remember? Remember when I pulled up and said \"Get in the car\" And then canceled my plans just in case you'd call? Back when I was livin' for the hope of it all, for the hope of it all \"Meet me behind the mall\" (Remember when I pulled up and said \"Get in the car\") (And then canceled my plans just in case you'd call?) (Back when I was livin' for the hope of it all, for the hope of it all) (\"Meet me behind the mall\") Remember when I pulled up and said \"Get in the car\" And then canceled my plans just in case you'd call? Back when I was livin' for the hope of it all (For the hope of it all) For the hope of it all, for the hope of it all (For the hope of it all, for the hope of it all)"
+      "FE!N (feat. Playboi Carti)": "D\u0131s\u0327ar\u0131 c\u0327\u0131k, gece ic\u0327in (Evet) Acele etme, \u0131s\u0327\u0131g\u0306\u0131n\u0131 al (Evet) Johnny Dang'e selam, evet, evet Kafam hep gu\u0308zel (Su\u0308rtu\u0308k!) Zebani, zebani, zebani, zebani, zebani (Evet) Zebani, zebani, zebani, zebani, zebani (Evet) Zebani, zebani, zebani, zebani, zebani Zebani, zebani (Evet), zebani, zebani, zebani Kariyerin sen zirved\u0435yken daha da tehlike alt\u0131nda Evraklar\u0131 bos\u0327 v\u0435r, yu\u0308zu\u0308m imza yerine gec\u0327er Biraz nefes almak ic\u0327in s\u0327ehirden ayr\u0131l\u0131yorum Sanki her zaman benden bi' parc\u0327a istiyorlarm\u0131s\u0327 gibi Hep geleceg\u0306e odakl\u0131yd\u0131m, hic\u0327bir zaman s\u0327imdiye deg\u0306il I\u0307c\u0327tig\u0306im kombucha deg\u0306il, ya pembe ya da kahverengi S\u0327u anda sana seni tan\u0131tan benim Aman Tanr\u0131m! Bu kaltak \u0131s\u0131r\u0131yor Pekala, keyfime bakmaya c\u0327al\u0131s\u0327acag\u0306\u0131m Gece olunca, gitgide canlan\u0131yor Uyku yok, yok, yok, yok Zebani, zebani, zebani, zebani, zebani Zebani, zebani, zebani, zebani, zebani Zebani, zebani, zebani, zebani, zebani Zebani, zebani, zebani, zebani Zebani, zebani, zebani, zebani, zebani S\u0327urup, woah, ne? Ne? (Homixide, Homixide, Homixide, Homixide) Ne? (Evet, woah, evet, evet) (Homixide, Homixide, Homixide, Homixide, evet) (Evet, bekle, evet) Kafay\u0131 s\u0131y\u0131r\u0131p bunlar\u0131 canl\u0131 yay\u0131nda izletiyordum, dur hele Yanl\u0131s\u0327 hareket ettin ve biz de lastiklerini patlatt\u0131k, dur hele Yu\u0308z tane kurs\u0327un, o\u0308fkeli hissediyorum Bu kaltaklarla ikili oynuyorum, k\u0131z\u0131m, arkadas\u0327\u0131n\u0131 sikiyorum Delirdig\u0306im de oldu, k\u0131z\u0131m, diplerde de olmus\u0327tum O k\u0131z masum falan deg\u0306il, s\u0327ey gibi davranmaya c\u0327al\u0131s\u0327\u0131yor- Zebani (Neyden bahsediyorsun?), zebani, zebani (Evet), zebani, zebani (Schyeah, oh, oh, ne?) Zebani, zebani (Schyeah), zebani, zebani, zebani (Oh, oh) Zebani (Neyden bahsediyorsun?), zebani, zebani, zebani, zebani (Neyden bahsediyorsun?) Su\u0308rtu\u0308klerime elmaslar al\u0131yorum, su\u0308rtu\u0308klerimi gu\u0308zel giydiriyorum Bu bambas\u0327ka bir seviye k\u0131z\u0131m, su\u0308rtu\u0308kleri parmak uc\u0327lar\u0131nda dolas\u0327t\u0131r\u0131r\u0131m Bu kas\u0327ara yol verdim c\u0327u\u0308nku\u0308 Opium ortam\u0131m\u0131za tak\u0131lmaya c\u0327al\u0131s\u0327t\u0131 Bu su\u0308rtu\u0308kse benle, bana bir s\u0327eyler go\u0308stermeye c\u0327al\u0131s\u0327\u0131yor Gu\u0308nlerce yetecek kadar flowum var, bu zenciler hic\u0327bir s\u0327eyden anlam\u0131yor Kardes\u0327imle stu\u0308dyoya kapand\u0131k, bu is\u0327ten anlad\u0131g\u0306\u0131m\u0131z\u0131 biliyorsun Bizim ko\u0308s\u0327ede gu\u0308nes\u0327 dog\u0306ana kadar deliler gibi tak\u0131l\u0131yoruz Hala o kaltak ic\u0327in endis\u0327eleniyorsun, o kaltak sec\u0327imini yapt\u0131 bile Bu\u0308tu\u0308n silahlar mutfakta, konumumu falan atamam Zebani, zebani, zebani Neden bu zenciler bizi tan\u0131yormus\u0327 gibi davran\u0131yorlar? Opium ve Cactus, is\u0327i iyice bu\u0308yu\u0308ttu\u0308k Orospumu deg\u0306is\u0327tirdim, bu zenciler buradan at\u0131l\u0131yor Her s\u0327eyimiz hit, her s\u0327eyimiz Homixide, Homixide (Homixide, Homixide, Homixide, Homixide) Zebani, zebani, zebani, zebani, zebani, zebani (Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide)",
+      "goosebumps": "Before performing this song live, Travis says Read More Yeah 7:30 in the night, yeah Ooh, ooh I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments I'm way too numb, yeah, it's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah When you're not around (Straight up) When you throw that to the side, yeah (It's lit) I get those goosebumps every time, yeah 7-1-3 Through the 2-8-1, yeah, I'm ridin', why they on me? Why they on me? I'm flyin', sippin' low-key I'm sippin' low-key in Onyx, rider, rider When I'm pullin' up right beside ya Pop star, lil' Mariah When I text a cute game, wildness Throw a stack on the Bible Never Snapchat or took molly She fall through plenty, her and all her ginnies, yeah We at the top floor, right there off Doheny, yeah Oh no, I can't fuck with y'all Yeah, when I'm with my squad, I cannot do no wrong Yeah, saucin' in the city, don't get misinformed Yeah, they gon' pull up on you (Brr, brr, brr) Yeah, we gon' do some things, some things you can't relate Yeah, 'cause we from a place, a place you cannot stay Oh, you can't go, oh, I don't know Oh, back the fuck up off me (Brr, brr, brr) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments I'm way too numb, yeah, it's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah When you're not around When you throw that to the side, yeah I get those goosebumps every time Uh, I want to press my like, yeah, I wanna press my I want a green light, I wanna be like I wanna press my line, yeah I wanna take that ride, yeah I'm gonna press my line I want a green light, I wanna be like, I wanna press my Mama dearest, spare your feelings I'm relivin' moments, peelin' more residual I can buy the buildin', burn the buildin' Take your bitch, rebuild the buildin' just to fuck some more I can justify my love for ya And touch the sky for God to stop debating war Put the pussy on a pedestal (Ayy) Put the pussy on a high horse That pussy to die for That pussy to die for Peter Piper picked a pepper So I could pick your brain and put your heart together We depart the shady parts and party hard The diamonds yours, the coupe forever My best shot just might shoot forever like (Brr) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments I'm way too numb, yeah, it's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah When you're not around When you throw that to the side, yeah I get those goosebumps every time",
+      "HIGHEST IN THE ROOM": "Read More I got room in my fumes (Yeah) She fill my mind up with ideas I'm the highest in the room (It s lit) Hope I make it outta here (Let's go) She saw my eyes, she know I'm gone (Ah) I see some things that you might fear I m doin' a show, I'll be back soon (Soon) That ain't what she wanna hear (Nah) Now I got her in my room (Ah) Legs wrapped around my beard Got the fastest car, it zoom (Skrrt) Hope we make it outta here (Ah) When I'm with you, I feel alive You say you love me, don't you lie (Yeah) Won't cross my heart, don't wanna die Keep the pistol on my side (Yeah) Case it s fumes (Smoke) She fill my mind up with ideas (Straight up) I m the highest in the room (It's lit) Hope I make it outta here (Let s go, yeah) We ain't stressin' 'bout the loot (Yeah) My block made of queseri\u0301a This not the molly, this the boot Ain t no comin' back from here Live the life of La Familia It's so much gang that I can't see ya (Yeah) Turn it up 'til they can't hear (We can't) Runnin', runnin' 'round for the thrill Yeah, dawg, dawg, 'round my real (Gang) Raw, raw, I been pourin' to the real (Drank) Nah, nah, nah, they not back of the VIP (In the VIP) Gorgeous, baby, keep me hard as steel Ah, this my life, I did not choose Uh, been on this since we was kids We gon' stay on top and break the rules Uh, I fill my mind up with ideas Case it's fumes She fill my mind up with ideas (Straight up) I'm the highest in the room (I'm the highest, it's lit) Hope I make it outta here",
+      "SICKO MODE": "Sicko, or 6icko (the 6 referring to Drake s hometown Toronto), is Read More Astro, yeah Sun is down, freezin' cold That's how we already know, winter's here My dawg would probably do it for a Louis belt That's just all he know, he don't know nothin' else I tried to show 'em, yeah I tried to show 'em, yeah, yeah Yeah, yeah, yeah Goin' on you with the pick and roll Young La Flame, he in sicko mode (Woo) Made this here with all the ice on in the booth At the gate outside, when they pull up, they get me loose Yeah, Jump Out boys, that's Nike boys, hoppin' out coupes This shit way too big, when we pull up, give me the loot (Gimme the loot!) Was off the Remy, had a Papoose Had to hit my old town to duck the news Two-four hour lockdown, we made no moves Now it's 4 a.m. and I'm back up poppin' with the crew I just landed in, Chase B mixes pop like Jamba Juice Different colored chains, think my jeweler really sellin' fruits And they chokin', man, know the crackers wish it was a noose Some-some-some-someone said To win the retreat, we all in too deep Play-play-playin' for keeps, don't play us for weak (Someone said) To win the retreat, we all in too deep Play-play-playin' for keeps, don't play us for weak Yeah, this shit way too formal, y'all know I don't follow suit Stacey Dash, most of these girls ain't got a clue All of these hoes I made off records I produced I might take all my exes and put 'em all in a group Hit my eses, I need the bootch 'Bout to turn this function to Bonnaroo Told her, \"Hop in, you comin' too\" In the 305, bitches treat me like I'm Uncle Luke (Don't stop, pop that pussy!) Had to slop the top off, it's just a roof, uh She said, \"Where we goin'?\" I said, \"The moon\" We ain't even make it to the room She thought it was the ocean, it's just the pool Now I got her open, it's just the Goose Who put this shit together? I'm the glue Someone said Shorty FaceTimed me out the blue Someone said Play-playin' for keeps Someone said, mother****, someone said Don't play us for weak Yeah Astro, yeah, yeah (Tay Keith, fuck these niggas up) Ayy, ayy She's in love with who I am Back in high school, I used to bus it to the dance (Yeah) Now I hit the FBO with duffels in my hands I did half a Xan, thirteen hours 'til I land Had me out like a light, ayy, yeah Like a light, ayy, yeah Like a light, ayy, slept through the flight, ayy Knocked for the night, ayy 767, man, this shit got double bedroom, man I still got scores to settle, man I crept down the block (Down the block) Made a right (Yeah, right) Cut the lights (Yeah, what?), paid the price (Yeah) Niggas think it's sweet (Nah, never), it's on sight (Yeah, what?) Nothin' nice (Yeah), baguettes in my ice (Aw, man) Jesus Christ (Yeah), checks over stripes (Yeah) That's what I like (Yeah), that's what we like (Yeah) Lost my respect, you not a threat When I shoot my shot, that shit wetty like I'm Sheck (Bitch) See the shots that I took (Ayy), wet like I'm Book (Ayy) Wet like I'm Lizzie I be spinnin' Valley, circle blocks 'til I'm dizzy (Yeah, what?) Like where is he? (Yeah, what?) No one seen him (Yeah, yeah) I'm tryna clean 'em (Yeah) She's in love with who I am Back in high school, I used to bus it to the dance Now I hit the FBO with duffels in my hands (Woo) I did half a Xan, thirteen hours 'til I land Had me out like a light (Like a light) Like a light (Like a light) Like a light (Like a light) Like a light Yeah, passed the dawgs a celly Sendin' texts, ain't sendin' kites, yeah He said, \"Keep that on lock\" I say, \"You know this shit, it's stife,\" yeah It's absolute, yeah (Yeah), I'm back, reboot (It's lit) LaFerrari to Jamba Juice, yeah (Skrrt, skrrt) We back on the road, they jumpin' off, no parachute, yeah Shorty in the back She said she workin' on her glutes, yeah (Oh my God) Ain't by the book, yeah, this how it look, yeah 'Bout a check, yeah (Check), just check the foots, yeah Pass this to my daughter, I'ma show her what it took (Yeah) Baby mama cover Forbes, got these other bitches shook Yeah",
+      "4X4": "Yeah, yeah, yeah, yeah, yeah, yeah Yeah, yeah-yeah, yeah-yeah-yeah-yeah-yeah-yeah (Four-by ) Four-by-four, I tint my windows up (Windows up), yeah Damn, lil' bro, he did it, one-and-done (One-and , one-and-done), yeah Out my closet, that shit none-of-none (None-of-none), yeah That's a vibe, that's a one-of-one (Vibe), yeah Fill her tongue (Tongue), yeah, make you numb, can you run? Can you come? Girl, fuck the sun, find the moon, find som\u0435 fun (Fun) Yeah, hella fumes in th\u0435 room, one-of-none (One), yeah, yeah, yeah Like a pro Not a rook', bend your back, touch your toes (Yeah) Hit a batch, take the sack, can you roll? (Yeah) You my Xanax, I relax, take control (Ooh) Rio get 'em back, they too close (They too close) Ain't no watchin' me, no in the scope (In the scope) Fix your energy, your inner soul (Inner soul) Do you love me? Man, I need to know (Need to know, need to, need to, need) Four-by-four, I tint my windows up (Need to), yeah Damn, lil' bro, he did it, one-and-done (One-and , one-and-), yeah Out my closet, that shit none-of-none (None-of-none), yeah That's a vibe, that's a one-of-one (One-of-), yeah Fill her tongue, yeah, make you numb, can you run? Can you come? (Need to) Yeah, fuck the sun, find the moon, find some fun (Find some, find some) Yeah, hella fumes in the room, one-of-none, yeah, yeah, yeah Highest one (It's lit) Talkin' that smoke, nigga, might dirty your lungs (Ah), yeah Eighteen carats in her gums, yeah (Ice) Said you wan' feel some', put that on your tongue, yeah (Let's go, yeah) 713 that code, 456, I roll (Four-by-) Four-by-four I swerve, five percent, tint windows (Shit, I swerve, skrrt, skrrt) Gotta be tens at least, I one v. three these hoes (One v. three) And they love takin' us up, they scrape it right out of the bowl (Out of the pot) Got plenty of zaza, we takin' 'em high (Let's go) He wanna just smoke with La Flame, but don't wanna hotbox (It's lit) What's in my cup? It's pink, I crush my valentines (Straight up) Said, \"Do you love me, bae?\" I need to know (Ah) Four-by-four, I tint my windows up (Windows up), yeah Damn, lil' bro, he did it, one-and-done (One-and , one-and-done), yeah Out my closet, that shit none-of-none (None-of-none), yeah That's a vibe, that's a one-of-one (Vibe), yeah Fill her tongue (Tongue), yeah, make you numb, can you run? Can you come? Girl, fuck the sun, find the moon, find some fun (Fun) Yeah, hella fumes in the room, one-of-none (One), yeah, yeah, yeah"
     }
   }
 }
