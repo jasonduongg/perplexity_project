@@ -3,6 +3,8 @@ from ollama import Client
 EMBEDDING_MODEL = 'nomic-embed-text'
 VECTOR_DB = []
 
+#replys
+
 # ✅ Initialize Ollama client with explicit base URL
 client = Client(host='http://localhost:11434')
 
