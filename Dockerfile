@@ -38,4 +38,4 @@ RUN ollama serve & \
 EXPOSE 5000
 
 # Command to run the application
-CMD ["bash", "-c", "echo 'Starting Ollama...' && ollama serve & sleep 10 && echo 'Starting server.py...' && python server.py & wait -n"]
+CMD ["python", "server.py"]
