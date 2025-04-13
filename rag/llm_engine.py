@@ -1,22 +1,32 @@
-import ollama
+from openai import OpenAI
+from dotenv import load_dotenv
+import os
+from typing import List
 
-LANGUAGE_MODEL = 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF'
+# Load env and set API key
+load_dotenv()
+client = OpenAI()  # Uses OPENAI_API_KEY from environment
 
-def build_prompt(context_chunks):
-    return (
-        "You are a helpful chatbot.\n"
-        "Use only the following pieces of context to answer the question. Don't make up any new information:\n" +
-        '\n'.join([f' - {chunk}' for chunk in context_chunks])
-    )
+CHAT_MODEL = "gpt-3.5-turbo"
 
-def get_response(query, context_chunks):
-    prompt = build_prompt(context_chunks)
-    response = ollama.chat(
-        model=LANGUAGE_MODEL,
+def get_response(query: str, context_chunks: List[str]):
+    context = "\n\n".join(context_chunks)
+    prompt = f"""You are a helpful assistant. Use the following information to answer the question.
+
+Context:
+{context}
+
+Question: {query}
+Answer:"""
+
+    response = client.chat.completions.create(
+        model=CHAT_MODEL,
         messages=[
-            {'role': 'system', 'content': prompt},
-            {'role': 'user', 'content': query}
+            {"role": "user", "content": prompt}
         ],
-        stream=True,
+        stream=True
     )
-    return response
+
+    for chunk in response:
+        if chunk.choices and chunk.choices[0].delta.content:
+            yield {"message": {"content": chunk.choices[0].delta.content}}

@@ -1,16 +1,13 @@
 # Use Ubuntu as base image
 FROM ubuntu:22.04
 
-# Install necessary dependencies
+# Install dependencies
 RUN apt-get update && apt-get install -y \
-    curl \
     python3 \
     python3-pip \
     python3-venv \
+    curl \
     && rm -rf /var/lib/apt/lists/*
-
-# Install Ollama
-RUN curl -fsSL https://ollama.com/install.sh | sh
 
 # Set working directory
 WORKDIR /app
@@ -19,23 +16,15 @@ WORKDIR /app
 RUN python3 -m venv /app/venv
 ENV PATH="/app/venv/bin:$PATH"
 
-# Copy requirements first to leverage Docker cache
+# Install python-dotenv so .env loading works
 COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt python-dotenv
 
-# Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Copy application files
+# Copy the rest of the application code
 COPY . .
 
-# Start Ollama and download models
-RUN ollama serve & \
-    sleep 10 && \
-    ollama pull nomic-embed-text && \
-    ollama pull hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
-
-# Expose port
+# Expose app port
 EXPOSE 5000
 
-# Command to run the application
+# Run the application
 CMD ["python", "server.py"]

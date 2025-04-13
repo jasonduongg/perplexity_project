@@ -23,22 +23,31 @@ def query():
         print("🔔 Incoming Request:", data)
 
         question = data.get("question", "")
+        if not question:
+            return jsonify({"error": "No question provided"}), 400
+
         print("🧠 Question:", question)
 
         # Detect artist name
         detected_artist = detect_artist_from_query(question)
         print("🎤 Detected Artist:", detected_artist)
 
-        # Compile new data if artist changed
+        if not detected_artist:
+            return jsonify({"error": "Could not detect an artist in the question"}), 400
 
-        # if detected_artist:
-        #     artist_data = compile_all(detected_artist)
-        #     save_to_file(artist_data)
-        # else:
-        artist_data = get_current_data()
+        # Get current data and check if we need to update
+        current_data = get_current_data(detected_artist)
+        current_artist = current_data.get("query", "")
+        
+        if current_artist.lower() != detected_artist.lower():
+            print(f"🔄 Updating data from {current_artist} to {detected_artist}")
+            # Compile new data and save to current.txt
+            new_data = compile_all(detected_artist)
+            save_to_file(new_data)
+            current_data = new_data
 
         # Extract and embed text
-        dataset = load_dataset_from_dict(artist_data)
+        dataset = load_dataset_from_dict(current_data)
         VECTOR_DB.clear()
         for i, chunk in enumerate(dataset):
             try:
