@@ -1,6 +1,6 @@
 from ollama import Client
 
-EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
+EMBEDDING_MODEL = 'nomic-embed-text'
 VECTOR_DB = []
 
 # ✅ Initialize Ollama client with explicit base URL
