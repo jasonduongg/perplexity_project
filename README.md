@@ -108,3 +108,8 @@ The application will be available at:
     - Support for artist aliases and variations
   - Contributions and suggestions for improving artist detection are welcome
 
+
+- **Challenges**:
+  - First time working with Docker, aws E2 and hosting a backend in python
+  - First time working with LLMs and RAGs
+
