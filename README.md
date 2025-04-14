@@ -18,7 +18,7 @@
   - Genius for song lyrics and annotations
 
 ## Deployment
-- **Frontend**: Hosted on Vercel
+- **Frontend**: Hosted on Vercel (https://perplexity-project.vercel.app)
 - **Backend**: Deployed on AWS EC2
 
 ## Other Features
@@ -30,8 +30,3 @@
   - Cache is stored in the `embeddings` directory with MD5-hashed filenames
   - Helps reduce API calls to OpenAI and improve response times
 
-## Contribution
-Feel free to fork the repository and submit pull requests. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License.
