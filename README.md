@@ -93,3 +93,18 @@ The application will be available at:
   - Cache is stored in the `embeddings` directory with MD5-hashed filenames
   - Helps reduce API calls to OpenAI and improve response times
 
+## Artist Support System
+- **Current Implementation**:
+  - Artist support is managed through `backend/artist.json`
+  - Contains predefined artist information and configurations
+  - Used for basic artist detection and matching
+
+- **Limitations and Future Improvements**:
+  - Current artist detection system could be enhanced for better accuracy
+  - Potential improvements include:
+    - More sophisticated artist name matching algorithms
+    - Integration with additional music databases
+    - Machine learning-based artist detection
+    - Support for artist aliases and variations
+  - Contributions and suggestions for improving artist detection are welcome
+
